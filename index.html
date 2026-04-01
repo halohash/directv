@@ -717,14 +717,17 @@ swfobject.embedSWF('dtvplayer.swf', 'dtvplayer_tup', '270', '166', MIN_FLASH_VER
 <div id="home_video_playlist">
 
 <ul>
-
-
-<li>
-<a onclick="return false;" class="home-playlist-img-link" name="{{ page.flv }}" title="Learn More"><img src="https://web.archive.org/web/20100708181019im_/http://cdn.directv.com/cms2/homepage/videos/201006/vidtmb__Ladies_MRV.jpg" alt=""/><b></b></a>
-<h4>{{ page.v1 }}</h4>
-<span>{{ page.v2 }}</span>
-</li>
-
+  {% for video in site.videos %}
+    <li>
+      <a onclick="return false;" class="home-playlist-img-link"
+         name="{{ video.flv }}" title="{{ video.lm }}">
+        <img src="{{ video.thumb }}" alt=""/>
+        <b></b>
+      </a>
+      <h4>{{ video.v1 }}</h4>
+      <span>{{ video.v2 }}</span>
+    </li>
+  {% endfor %}
 </ul>
 
 <div id="home_video_playlist_dynamic"></div>
