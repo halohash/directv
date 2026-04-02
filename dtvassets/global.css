@@ -1,5 +1,5 @@
 html,body{height:100%;}
-body{background:#000 url('http://cdn.directv.com/images/global/dtv_bg.png') top left repeat-x;color:#333;font-size:11px;line-height:14px;font-family:arial,verdana,sans-serif;margin:0;padding:0;}
+body{background:#000 url('https://halohash.github.io/directv/dtvassets/dtv_bg.png') top left repeat-x;color:#333;font-size:11px;line-height:14px;font-family:arial,verdana,sans-serif;margin:0;padding:0;}
 h1,h2,h3,h4,h5,h6,h7{margin:0 0 1em;padding:0;font-family:"Trebuchet MS",arial,verdana,sans-serif;}
 h1{font-size:15px;}
 h2{font-size:14px;}
@@ -14,8 +14,8 @@ sup{vertical-align:text-top;_vertical-align:top;}
 ul.list li{float:none!important;padding:2px 0 0 24px;margin:5px 0;min-height:16px;height:auto!important;height:16px;}
 ul.bulleted{padding-left:22px;}
 ul.bulleted li{float:none!important;list-style:disc;padding-left:2px;margin:0;}
-ul.lightbulb li.lightbulb{float:none!important;background:url('http://cdn.directv.com/images/assets/productcatalog/icon_lightbulb_ongrey.gif') -2px 0 no-repeat;}
-.bullet-list ul li{float:none!important;background:url('http://cdn.directv.com/images/content/themes/default/list_bullet.png') 2px 5px no-repeat;padding-left:16px;margin-bottom:10px;}
+ul.lightbulb li.lightbulb{float:none!important;background:url('https://halohash.github.io/directv/dtvassets/icon_lightbulb_ongrey.gif') -2px 0 no-repeat;}
+.bullet-list ul li{float:none!important;background:url('https://halohash.github.io/directv/dtvassets/list_bullet.png') 2px 5px no-repeat;padding-left:16px;margin-bottom:10px;}
 var{display:none;}
 .hollyhack{hei\ght:.01%;position:inherit;}
 .poshack{height:auto!important;hei\ght:.01%;position:inherit!important;position:relative;}
@@ -25,7 +25,7 @@ var{display:none;}
 .content-area-two-col{width:382px;border:1px solid;float:left;}
 .content-area-three-col{width:573px;border:1px solid;float:left;}
 .content-area-four-col{width:764px;border:1px solid;}
-#dtv_tup{background:#27647f url('http://cdn.directv.com/images/global/dtv_main_bg.png') left bottom repeat-x;width:978px;margin:0 auto;height:auto!important;height:100%;min-height:100%;padding-bottom:36px;border-left:1px solid #1c7497;border-right:1px solid #1c7497;}
+#dtv_tup{background:#27647f url('https://halohash.github.io/directv/dtvassets/dtv_main_bg.png') left bottom repeat-x;width:978px;margin:0 auto;height:auto!important;height:100%;min-height:100%;padding-bottom:36px;border-left:1px solid #1c7497;border-right:1px solid #1c7497;}
 #dtv_body_tup{padding:6px 9px 78px;}
 #content{padding-bottom:0;}
 #dtv_body_tup #dtv_body_left{float:left;line-height:15px;width:180px;}
@@ -33,18 +33,18 @@ var{display:none;}
 #dtv_body_tup #dtv_body_mid{float:left;line-height:1.5em;margin-left:15px;z-index:40;width:568px;}
 #dtv_body_tup #dtv_body_full{float:left;line-height:1.5em;margin-left:15px;z-index:40;width:764px;}
 #dtv_body_tup #dtv_body_right{position:relative;float:right;width:176px;line-height:15px;}
-.cep-tup{position:relative;background:#dae0e3 url(http://cdn.directv.com/images/account/bg_login_tup.png) 0 0 repeat-x;padding:13px 10px 10px;_height:.01%;}
+.cep-tup{position:relative;background:#dae0e3 url(https://halohash.github.io/directv/dtvassets/bg_login_tup.png) 0 0 repeat-x;padding:13px 10px 10px;_height:.01%;}
 #cep_layout_main{padding:0;float:left;width:534px;clear:both;height:auto;vertical-align:top;}
-#cep_layout_sidebar{float:right;width:200px;padding:0 0 11px 0;background:#acbdc7 url(http://cdn.directv.com/images/cep/bg_ads_bottom_noline.gif) bottom left no-repeat;}
+#cep_layout_sidebar{float:right;width:200px;padding:0 0 11px 0;background:#acbdc7 url(https://halohash.github.io/directv/dtvassets/bg_ads_bottom_noline.gif) bottom left no-repeat;}
 .current_spacer{height:1px;width:764px;}
 .current_transition{display:block;clear:both;}
 .current_transition_dashed{display:block;clear:both;border-bottom:1px dotted #b7b7b7;margin:5px 0;}
 #current_content{background-color:#dae0e3;margin:0;padding:5px 0;height:auto!important;height:.1%;}
 #current_page{background:none;height:100%;}
-.dtv-topnav-wrapper{background:url('http://cdn.directv.com/images/global/dtv_bg.png') repeat-x;}
-#dtv_topnav_tup{position:relative;background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') -400px top no-repeat;height:107px;margin:0 -1px;z-index:999;}
+.dtv-topnav-wrapper{background:url('https://halohash.github.io/directv/dtvassets/dtv_bg.png') repeat-x;}
+#dtv_topnav_tup{position:relative;background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') -400px top no-repeat;height:107px;margin:0 -1px;z-index:999;}
 .dtv_cobrand{background:none;}
-.dtv_cobrand #dtv_topnav_tup{background:url('http://cdn.directv.com/images/global/topnav_cobrand_swoosh.jpg') left 114px no-repeat;height:185px;}
+.dtv_cobrand #dtv_topnav_tup{background:url('https://halohash.github.io/directv/dtvassets/topnav_cobrand_swoosh.jpg') left 114px no-repeat;height:185px;}
 .dtv_cobrand #dtv_topnav_tup #dtv_topnav_sections_nav{top:152px;}
 .dtv_cobrand #dtv_topnav_tup #dtv_topnav_cobrand_banner{text-align:center;}
 .dtv_cobrand #dtv_topnav_tup #dtv_topnav_cobrand_banner img{margin-top:5px;background:#fff;}
@@ -53,11 +53,11 @@ var{display:none;}
 #dtv_topnav_cobrand_quicklinks select{width:206px;}
 #dtv_topnav_cobrand_ordernow{position:absolute;top:127px;font-size:18px;font-weight:bold;color:#fff;padding:0 10px;}
 #dtv_topnav_cobrand_ordernow a{color:#fff;}
-#dtv_topnav_tup a#dtv_logo{position:absolute;background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') left top no-repeat;left:0;top:0;display:block;width:100px;height:78px;z-index:999;}
+#dtv_topnav_tup a#dtv_logo{position:absolute;background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') left top no-repeat;left:0;top:0;display:block;width:100px;height:78px;z-index:999;}
 #dtv_topnav_tup a#dtv_logo:hover{background-position:-100px top;}
 .dtv_customer #dtv_topnav_tup a#dtv_logo{background-position:-200px top;}
 .dtv_customer #dtv_topnav_tup a#dtv_logo:hover{background-position:-300px top;}
-#dtv_topnav_tup a#dtv_logo span{position:absolute;top:8px;display:block;background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') left -80px no-repeat;width:100px;height:40px;text-indent:-9999px;}
+#dtv_topnav_tup a#dtv_logo span{position:absolute;top:8px;display:block;background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') left -80px no-repeat;width:100px;height:40px;text-indent:-9999px;}
 #dtv_topnav_tup a#dtv_logo:hover span{top:7px;}
 .dtv_customer #dtv_topnav_tup a#dtv_logo span{top:10px;left:1px;}
 .dtv_customer #dtv_topnav_tup a#dtv_logo:hover span{top:9px;left:1px;}
@@ -69,9 +69,9 @@ var{display:none;}
 #dtv_topnav_sites_nav ul li.label{color:#eee;}
 #dtv_topnav_sites_nav ul li a{color:#e6e6e6;}
 #dtv_topnav_sites_nav ul li a:hover{text-decoration:none;color:#fff;}
-#dtv_topnav_sites_nav ul li.active a{color:#fff;background:url('http://cdn.directv.com/images/sites_arrow.png') left center no-repeat;padding-left:8px;}
+#dtv_topnav_sites_nav ul li.active a{color:#fff;background:url('https://halohash.github.io/directv/dtvassets/sites_arrow.png') left center no-repeat;padding-left:8px;}
 b.lid{font-size:1px;line-height:0;}
-.dtv-topnav .lid,.dtv-topnav .cap{display:block;width:36px;height:23px;line-height:0;background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') -1080px -120px no-repeat;float:right;}
+.dtv-topnav .lid,.dtv-topnav .cap{display:block;width:36px;height:23px;line-height:0;background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') -1080px -120px no-repeat;float:right;}
 .dtv-topnav .cap{width:13px;background-position:-1116px -120px;}
 .dtv-topnav ul{position:relative;}
 .dtv-topnav ul li{position:relative;float:left;}
@@ -79,7 +79,7 @@ b.lid{font-size:1px;line-height:0;}
 .dtv-topnav ul li:hover a,.dtv-topnav ul li.hover a{color:#255498;}
 .dtv-topnav ul li a span{display:block;padding-top:2px;}
 .dtv-topnav ul li a.inactive,.dtv-topnav ul li a.inactive b{cursor:default;}
-.dtv-topnav ul li .shadow{position:absolute;top:0;display:block;margin:-1px;padding:0;height:3px;width:3px;font-size:1px;line-height:1px;background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') -1130px -180px no-repeat;}
+.dtv-topnav ul li .shadow{position:absolute;top:0;display:block;margin:-1px;padding:0;height:3px;width:3px;font-size:1px;line-height:1px;background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') -1130px -180px no-repeat;}
 #dtv_topnav_sections_nav ul li.last .shadow{display:none;}
 .dtv-topnav ul li .bottom{height:10px;margin-bottom:0;font-size:1px;line-height:1px;}
 .dtv-topnav ul li ul{position:relative;z-index:2;padding:0;text-align:left;border:1px solid #666;float:none;}
@@ -96,31 +96,31 @@ b.lid{font-size:1px;line-height:0;}
 .dtv-topnav ul li.last .dtv-subnav{left:auto;right:0;}
 #dtv_topnav_sections_nav{position:absolute;top:55px;right:7px;z-index:5;}
 #dtv_topnav_sections_nav ul{float:right;}
-#dtv_topnav_sections_nav ul li a{background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') -1130px -120px no-repeat;padding:0 18px 0 21px;}
+#dtv_topnav_sections_nav ul li a{background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') -1130px -120px no-repeat;padding:0 18px 0 21px;}
 #dtv_topnav_sections_nav ul li:hover a,#dtv_topnav_sections_nav ul li.hover a{background-position:-1130px -143px;padding-right:0;padding-bottom:2px;}
-#dtv_topnav_sections_nav ul li:hover a span,#dtv_topnav_sections_nav ul li.hover a span{background:#666 url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') right -143px no-repeat;padding-right:18px;padding-bottom:2px;}
+#dtv_topnav_sections_nav ul li:hover a span,#dtv_topnav_sections_nav ul li.hover a span{background:#666 url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') right -143px no-repeat;padding-right:18px;padding-bottom:2px;}
 #dtv_topnav_sections_nav ul li.last:hover a span{background-color:#fff;}
 #dtv_topnav_sections_nav ul li:hover ul li a span{padding-bottom:0;}
 #dtv_topnav_sections_nav ul li ul{float:none;}
 #dtv_topnav_sections_nav ul li ul li a{background:none;padding:0 10px 0 18px;}
 #dtv_topnav_customer_nav{position:absolute;left:470px;top:29px;margin:0;padding:0;z-index:10;}
 #dtv_topnav_customer_nav ul li{padding-left:2px;}
-#dtv_topnav_customer_nav ul li:hover,#dtv_topnav_customer_nav ul li.hover{background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') -1130px -170px no-repeat;}
+#dtv_topnav_customer_nav ul li:hover,#dtv_topnav_customer_nav ul li.hover{background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') -1130px -170px no-repeat;}
 #dtv_topnav_customer_nav ul li a{position:relative;display:block;height:26px;line-height:26px;margin:0;padding:0;padding-top:2px;cursor:pointer;z-index:11;vertical-align:middle;}
-#dtv_topnav_customer_nav ul li:hover a,#dtv_topnav_customer_nav ul li.hover a{background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') right -170px no-repeat;}
+#dtv_topnav_customer_nav ul li:hover a,#dtv_topnav_customer_nav ul li.hover a{background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') right -170px no-repeat;}
 #dtv_topnav_customer_nav ul li a span{display:block;margin:0;padding:0;font-size:10px;}
 #dtv_topnav_customer_nav ul li#customer_tv_explorer a{width:97px;}
-#dtv_topnav_customer_nav ul li#customer_tv_explorer a span{background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') -392px -128px no-repeat;padding-left:26px;}
+#dtv_topnav_customer_nav ul li#customer_tv_explorer a span{background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') -392px -128px no-repeat;padding-left:26px;}
 #dtv_topnav_customer_nav ul li#customer_tv_explorer:hover a span,#dtv_topnav_customer_nav ul li#customer_tv_explorer.hover a span{background-position:-392px -148px;}
 #dtv_topnav_customer_nav ul li#customer_my_account a{width:85px;}
-#dtv_topnav_customer_nav ul li#customer_my_account a span{background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') -634px -128px no-repeat;padding-left:21px;}
+#dtv_topnav_customer_nav ul li#customer_my_account a span{background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') -634px -128px no-repeat;padding-left:21px;}
 #dtv_topnav_customer_nav ul li#customer_my_account:hover a span,#dtv_topnav_customer_nav ul li#customer_my_account.hover a span{background-position:-635px -148px;}
 #dtv_topnav_customer_nav ul li#customer_support a{width:51px;}
-#dtv_topnav_customer_nav ul li#customer_support a span{background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') -517px -128px no-repeat;padding-left:21px;}
+#dtv_topnav_customer_nav ul li#customer_support a span{background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') -517px -128px no-repeat;padding-left:21px;}
 #dtv_topnav_customer_nav ul li#customer_support:hover a span,#dtv_topnav_customer_nav ul li#customer_support.hover a span{background-position:-517px -148px;}
 #dtv_topnav_customer_nav ul li#customer_tv_explorer ul li a,#dtv_topnav_customer_nav ul li#customer_my_account ul li a,#dtv_topnav_customer_nav ul li#customer_support ul li a{width:auto;}
 #dtv_topnav_customer_nav ul li#customer_service a{width:115px;}
-#dtv_topnav_customer_nav ul li#customer_service a span{background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') -722px -128px no-repeat;padding-left:21px;}
+#dtv_topnav_customer_nav ul li#customer_service a span{background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') -722px -128px no-repeat;padding-left:21px;}
 #dtv_topnav_customer_nav ul li#customer_service:hover a span,#dtv_topnav_customer_nav ul li#customer_service.hover a span{background-position:-722px -147px;}
 #dtv_topnav_customer_nav ul li#customer_tv_explorer ul li a,#dtv_topnav_customer_nav ul li#customer_my_account ul li a,#dtv_topnav_customer_nav ul li#customer_service ul li a{width:auto;}
 #dtv_topnav_customer_nav ul li ul li{padding-left:0;}
@@ -135,7 +135,7 @@ b.lid{font-size:1px;line-height:0;}
 #dtv_topnav_search_cart ul,#dtv_topnav_search_cart ul li{position:relative;margin:0;padding:0;list-style-type:none;}
 #dtv_topnav_search_cart ul li a{display:block;position:relative;height:37px;margin:0;padding:0;text-decoration:none;overflow:hidden;cursor:pointer;}
 #dtv_topnav_search_cart ul li#customer_emptycart a,#dtv_topnav_search_cart ul li#customer_mycart a,#dtv_topnav_search_cart ul li#customer_ordernow a{position:absolute;top:0;right:0;width:95px;}
-#dtv_topnav_search_cart ul li#customer_emptycart a span,#dtv_topnav_search_cart ul li#customer_mycart a span,#dtv_topnav_search_cart ul li#customer_ordernow a span{display:block;background:url('http://cdn.directv.com/images/dtv_shopping_cart.png') no-repeat;position:absolute;top:8px;right:9px;width:76px;height:23px;margin:0;padding:0;font-size:1px;line-height:1px;text-indent:-9999px;overflow:hidden;}
+#dtv_topnav_search_cart ul li#customer_emptycart a span,#dtv_topnav_search_cart ul li#customer_mycart a span,#dtv_topnav_search_cart ul li#customer_ordernow a span{display:block;background:url('https://halohash.github.io/directv/dtvassets/dtv_shopping_cart.png') no-repeat;position:absolute;top:8px;right:9px;width:76px;height:23px;margin:0;padding:0;font-size:1px;line-height:1px;text-indent:-9999px;overflow:hidden;}
 #dtv_topnav_search_cart ul li#customer_emptycart a:hover span{background-position:0 -23px;}
 #dtv_topnav_search_cart ul li#customer_mycart a span{background-position:0 -46px;}
 #dtv_topnav_search_cart ul li#customer_mycart a:hover span{background-position:0 -69px;}
@@ -158,16 +158,16 @@ b.lid{font-size:1px;line-height:0;}
 #dtv_topnav_customer_greeting .login a{font-size:12px;font-weight:bold;}
 #dtv_topnav_login_bar{position:absolute;top:78px;left:1px;width:954px;height:18px;margin:0 9px;padding:10px 0 0 7px;font-size:12px;line-height:13px;color:#fff;z-index:4;}
 #dtv_topnav_login_bar a{color:#fff;font-size:12px;font-weight:normal;}
-#dtv_topnav_login_bar .message{background:url('http://cdn.directv.com/images/topnav_sprites_menus_v4.png') 0 -178px no-repeat;padding-left:14px;}
+#dtv_topnav_login_bar .message{background:url('https://halohash.github.io/directv/dtvassets/topnav_sprites_menus_v4.png') 0 -178px no-repeat;padding-left:14px;}
 #dtv_leftnav_tup{height:.01%;position:relative;}
-#dtv_leftnav_tup .leftnav-title{position:relative;background:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.png) right top no-repeat;padding:0 10px 0 0;margin:0;line-height:0;}
-#dtv_leftnav_tup .leftnav-title span{position:relative;display:block;padding:6px 0 5px 10px;margin:0;color:#006fab;line-height:21px;font-size:18px;color:#0280b2;background:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.png) left top no-repeat;font-weight:normal;}
+#dtv_leftnav_tup .leftnav-title{position:relative;background:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.png) right top no-repeat;padding:0 10px 0 0;margin:0;line-height:0;}
+#dtv_leftnav_tup .leftnav-title span{position:relative;display:block;padding:6px 0 5px 10px;margin:0;color:#006fab;line-height:21px;font-size:18px;color:#0280b2;background:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.png) left top no-repeat;font-weight:normal;}
 #dtv_leftnav_tup .leftnav-title span span{position:absolute;top:-1px;.top:0;left:-1px;_left:-11px;color:#fff;background:none;}
 #dtv_leftnav_nav{position:relative;margin-bottom:30px;padding:0;background:#fff;}
 #dtv_leftnav_nav ul{border:1px solid #7ab9d6;border-bottom:none;padding-top:3px;zoom:1;_position:relative;}
-#dtv_leftnav_nav ul li{background:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.png) 0 -100px no-repeat;padding:0 7px;font-size:12px;line-height:15px;.height:.01%;zoom:1;}
+#dtv_leftnav_nav ul li{background:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.png) 0 -100px no-repeat;padding:0 7px;font-size:12px;line-height:15px;.height:.01%;zoom:1;}
 .ctl-laab #dtv_leftnav_nav ul li,.ctl-laaa #dtv_leftnav_nav ul li{background-position:0 -200px;}
-.ctl-area-a #dtv_leftnav_tup .leftnav-title,.ctl-area-a #dtv_leftnav_tup .leftnav-title span,.ctl-area-a #dtv_leftnav_nav ul li,.ctl-area-a #dtv_leftnav_nav b.bottom,.ctl-area-a #dtv_leftnav_nav b.bottom b,.ctl-area-a #dtv_leftnav_tup .leftnav-module-tup b{background-image:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.white.png);}
+.ctl-area-a #dtv_leftnav_tup .leftnav-title,.ctl-area-a #dtv_leftnav_tup .leftnav-title span,.ctl-area-a #dtv_leftnav_nav ul li,.ctl-area-a #dtv_leftnav_nav b.bottom,.ctl-area-a #dtv_leftnav_nav b.bottom b,.ctl-area-a #dtv_leftnav_tup .leftnav-module-tup b{background-image:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.white.png);}
 .ctl-area-a #dtv_leftnav_tup .leftnav-title span span{background:none;}
 #dtv_leftnav_nav ul li a,#dtv_leftnav_nav ul li span{position:relative;display:block;margin:0;padding:4px 0 3px 3px;.height:.01%;zoom:1;vertical-align:middle;}
 #dtv_leftnav_nav ul li a{color:#4c4c4c;}
@@ -175,45 +175,45 @@ b.lid{font-size:1px;line-height:0;}
 #dtv_leftnav_nav ul li span{display:block;}
 #dtv_leftnav_nav ul li ul{margin:0;padding:0;padding-bottom:3px;border:none;.height:.01%;}
 #dtv_leftnav_nav ul li ul li{margin:0;padding:0;background:#f5fbff;font-size:11px;line-height:15px;}
-#dtv_leftnav_nav ul li ul li a,#dtv_leftnav_nav ul li.open ul li a,#dtv_leftnav_nav ul li ul li.active span{display:block;background:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.png) 10px -591px no-repeat;margin:0;padding:3px 4px 3px 18px;}
+#dtv_leftnav_nav ul li ul li a,#dtv_leftnav_nav ul li.open ul li a,#dtv_leftnav_nav ul li ul li.active span{display:block;background:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.png) 10px -591px no-repeat;margin:0;padding:3px 4px 3px 18px;}
 #dtv_leftnav_nav ul li ul li.active span{background-position:10px -791px;}
 #dtv_leftnav_nav ul li ul li a:hover{background-position:10px -691px;}
 #dtv_leftnav_nav ul li.noline{background:none;}
 #dtv_leftnav_nav ul li.label{background:none;margin:0;padding:3px 10px 5px;font-weight:bold;font-size:14px;line-height:18px;color:#333;text-transform:none;}
-#dtv_leftnav_nav ul li.spacer{background:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.png) 0 -300px;height:5px;margin:8px 0 0;padding:0;line-height:1px;font-size:1px;}
+#dtv_leftnav_nav ul li.spacer{background:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.png) 0 -300px;height:5px;margin:8px 0 0;padding:0;line-height:1px;font-size:1px;}
 #dtv_leftnav_nav ul li.active{background:#e7e7e7;color:#4c4c4c;font-weight:bold;}
-#dtv_leftnav_nav ul li.closed a span{margin:0;padding:0 12px 0 0;background:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.png) 150px -394px no-repeat;}
+#dtv_leftnav_nav ul li.closed a span{margin:0;padding:0 12px 0 0;background:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.png) 150px -394px no-repeat;}
 #dtv_leftnav_nav ul li.closed a:hover span{background-position:150px -494px;}
 .ctl-laab #dtv_leftnav_nav ul li.closed a span,.ctl-laaa #dtv_leftnav_nav ul li.closed a span{background-position:184px -394px;}
 .ctl-laab #dtv_leftnav_nav ul li.closed a:hover span,.ctl-laaa #dtv_leftnav_nav ul li.closed a:hover span{background-position:184px -494px;}
 #dtv_leftnav_nav ul li.open{background:none;padding:4px;color:#4c4c4c;}
 #dtv_leftnav_nav ul li.open .subnav{background:#f2faff;border:1px solid #9fbbc1;}
 #dtv_leftnav_nav ul li.open span{padding:4px 5px 4px 6px;line-height:16px;.height:.01%;}
-#dtv_leftnav_nav ul li.open span span{background:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.png) 149px -394px no-repeat;padding:0;}
+#dtv_leftnav_nav ul li.open span span{background:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.png) 149px -394px no-repeat;padding:0;}
 .ctl-laab #dtv_leftnav_nav ul li.open span span,.ctl-laaa #dtv_leftnav_nav ul li.open span span{background-position:183px -394px;}
 #dtv_leftnav_nav ul li.open .active{background:#cae7fc;}
 #dtv_leftnav_nav ul li.open a{padding:0;}
 #dtv_leftnav_nav ul li.open a:hover span span{background-position:149px -494px;}
 .ctl-laab #dtv_leftnav_nav ul li.open a:hover span span,.ctl-laaa #dtv_leftnav_nav ul li.open a:hover span span{background-position:183px -494px;}
-#dtv_leftnav_nav b.bottom{display:block;margin:0;padding:0 10px 0 0;height:6px;font-size:1px;line-height:1px;background:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.png) right -942px no-repeat;}
-#dtv_leftnav_nav b.bottom b{display:block;height:6px;font-size:1px;line-height:1px;background:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.png) left -942px no-repeat;}
+#dtv_leftnav_nav b.bottom{display:block;margin:0;padding:0 10px 0 0;height:6px;font-size:1px;line-height:1px;background:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.png) right -942px no-repeat;}
+#dtv_leftnav_nav b.bottom b{display:block;height:6px;font-size:1px;line-height:1px;background:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.png) left -942px no-repeat;}
 #dtv_leftnav_tup .leftnav-module-tup{margin:0 0 30px;padding:0;background:white;}
 #dtv_leftnav_tup .leftnav-module{padding:0 10px;font-size:12px;line-height:18px;color:#4c4c4c;border-left:1px #7bbad7 solid;border-right:1px #7bbad7 solid;}
 #dtv_leftnav_tup .leftnav-module h2{margin:0 0 10px;font-size:14px;line-height:14px;font-weight:bold;color:#333;background-image:none;}
 #dtv_leftnav_tup .leftnav-module a{color:#4c4c4c;}
 #dtv_leftnav_tup .leftnav-module a:hover{color:#00abe3;}
-#dtv_leftnav_tup .leftnav-module-tup b{display:block;background:url(http://cdn.directv.com/images/global/leftnav/leftnav_sprite.png) -2000px no-repeat;height:15px;margin:0;padding:0 15px 0 0;font-size:1px;line-height:0;}
+#dtv_leftnav_tup .leftnav-module-tup b{display:block;background:url(https://halohash.github.io/directv/dtvassets/leftnav/leftnav_sprite.png) -2000px no-repeat;height:15px;margin:0;padding:0 15px 0 0;font-size:1px;line-height:0;}
 #dtv_leftnav_tup .leftnav-module-tup b.lid{background-position:right -900px;}
 #dtv_leftnav_tup .leftnav-module-tup b.lid b{background-position:left -900px;}
 #dtv_leftnav_tup .leftnav-module-tup b.bottom{background-position:right -933px;}
 #dtv_leftnav_tup .leftnav-module-tup b.bottom b{background-position:left -933px;}
 #dtv_leftnav_tup .leftnav-module-tup input#emailField{height:17px;font-family:arial,sans-serif;font-size:12px;line-height:17px;color:#666;border:1px #ccc solid;}
 #dtv_leftnav_insidescoop #emailField{width:145px;margin-bottom:10px;font-size:11px;}
-#dtv_leftnav_insidescoop .leftnav-module h2{padding:0 0 0 20px;background:url(http://cdn.directv.com/images/global/icons/icon_envelope_blue.png) no-repeat 0 1px;margin-right:-10px;}
+#dtv_leftnav_insidescoop .leftnav-module h2{padding:0 0 0 20px;background:url(https://halohash.github.io/directv/dtvassets/icons/icon_envelope_blue.png) no-repeat 0 1px;margin-right:-10px;}
 .ctl-laab #dtv_leftnav_insidescoop #emailField,.ctl-laaa #dtv_leftnav_insidescoop #emailField{width:175px;margin-bottom:10px;font-size:11px;}
 #dtv_full_page{width:auto;}
 #dtv_footer_tup{clear:both;position:relative;z-index:3;width:960px;height:62px;margin:-98px auto 0;color:#fff;text-align:center;font-size:10px;}
-#dtv_footer_nav{height:28px;overflow:hidden;background:url(http://cdn.directv.com/images/global/dtv_footer_single_bg.png) no-repeat 50% 0;margin-bottom:10px;}
+#dtv_footer_nav{height:28px;overflow:hidden;background:url(https://halohash.github.io/directv/dtvassets/dtv_footer_single_bg.png) no-repeat 50% 0;margin-bottom:10px;}
 #dtv_footer_nav ul{margin-top:0;.margin-top:2px;}
 #dtv_footer_nav li{display:inline-block;.display:inline;.zoom:1;overflow:hidden;color:#556870;letter-spacing:.2px;font-size:10px;line-height:26px;.line-height:22px;padding:0 0 0 5px;margin:0;}
 #dtv_footer_nav li:first-child{padding-left:0;}
@@ -250,23 +250,23 @@ img.block{display:block;}
 .clear-after{.display:inline-block;_zoom:1;}
 .autoclear{.zoom:1;}
 ul.smallSquares,ul.dashes{margin-left:10px;}
-ul.smallSquares li{padding-left:12px!important;background:url(http://cdn.directv.com/images/common/bullet_square.png) 4px 3px no-repeat;}
-ul.dashes li{padding-left:10px;background:url(http://cdn.directv.com/images/common/bullet_dash.png) 4px .6em no-repeat;}
+ul.smallSquares li{padding-left:12px!important;background:url(https://halohash.github.io/directv/dtvassets/common/bullet_square.png) 4px 3px no-repeat;}
+ul.dashes li{padding-left:10px;background:url(https://halohash.github.io/directv/dtvassets/common/bullet_dash.png) 4px .6em no-repeat;}
 ul.smallSquares li,ul.dashes li{margin-bottom:3px;}
-ul li.green{padding-left:18px!important;background:url(http://cdn.directv.com/images/common/bullet_circle_green.png) 3px 3px no-repeat;}
-ul li.blue{padding-left:18px!important;background:url(http://cdn.directv.com/images/common/bullet_circle_blue.png) 3px 3px no-repeat;}
-ul li.red{padding-left:18px!important;background:url(http://cdn.directv.com/images/common/bullet_circle_red.png) 3px 3px no-repeat;}
-a.more{width:auto;padding-right:15px;background:url(http://cdn.directv.com/images/common/nav/bullet_chevron.png) right 3px no-repeat;background-repeat:no-repeat!important;}
-a.print{padding-left:20px;background:url(http://cdn.directv.com/images/common/icons/printIcon.png) 0 50% no-repeat;}
-a.asc,a.desc{padding-right:10px;color:#333;background:url(http://cdn.directv.com/images/common/icons/down_arrow.png) 100% 50% no-repeat;}
-a.asc{background-image:url(http://cdn.directv.com/images/common/icons/down_arrow.png);}
-a.asc:hover{background-image:url(http://cdn.directv.com/images/common/icons/down_arrow_over.png);}
-a.desc{background-image:url(http://cdn.directv.com/images/common/icons/up_arrow.png);}
-a.desc:hover{background-image:url(http://cdn.directv.com/images/common/icons/up_arrow_over.png);}
-a.back{padding-left:15px;background:url(http://cdn.directv.com/images/common/nav/bullet_chevron_left.png) 0 .25em no-repeat;}
-a.close{padding:4px 24px 4px 0;background:url(http://cdn.directv.com/images/common/btn_roundX.png) 100% .125em no-repeat;}
+ul li.green{padding-left:18px!important;background:url(https://halohash.github.io/directv/dtvassets/common/bullet_circle_green.png) 3px 3px no-repeat;}
+ul li.blue{padding-left:18px!important;background:url(https://halohash.github.io/directv/dtvassets/common/bullet_circle_blue.png) 3px 3px no-repeat;}
+ul li.red{padding-left:18px!important;background:url(https://halohash.github.io/directv/dtvassets/common/bullet_circle_red.png) 3px 3px no-repeat;}
+a.more{width:auto;padding-right:15px;background:url(https://halohash.github.io/directv/dtvassets/common/nav/bullet_chevron.png) right 3px no-repeat;background-repeat:no-repeat!important;}
+a.print{padding-left:20px;background:url(https://halohash.github.io/directv/dtvassets/common/icons/printIcon.png) 0 50% no-repeat;}
+a.asc,a.desc{padding-right:10px;color:#333;background:url(https://halohash.github.io/directv/dtvassets/common/icons/down_arrow.png) 100% 50% no-repeat;}
+a.asc{background-image:url(https://halohash.github.io/directv/dtvassets/common/icons/down_arrow.png);}
+a.asc:hover{background-image:url(https://halohash.github.io/directv/dtvassets/common/icons/down_arrow_over.png);}
+a.desc{background-image:url(https://halohash.github.io/directv/dtvassets/common/icons/up_arrow.png);}
+a.desc:hover{background-image:url(https://halohash.github.io/directv/dtvassets/common/icons/up_arrow_over.png);}
+a.back{padding-left:15px;background:url(https://halohash.github.io/directv/dtvassets/common/nav/bullet_chevron_left.png) 0 .25em no-repeat;}
+a.close{padding:4px 24px 4px 0;background:url(https://halohash.github.io/directv/dtvassets/common/btn_roundX.png) 100% .125em no-repeat;}
 table.threeColTable,table.twoColTable{margin:0 -10px 10px 0;}
-table.threeColTable h2 a,table.twoColTable h2 a,.columns3 h2 a{display:block;margin:0;color:#225598;padding-left:17px;font-size:11px;background:url(http://cdn.directv.com/images/common/icons/icon_index_h2.png) 0 2px no-repeat;}
+table.threeColTable h2 a,table.twoColTable h2 a,.columns3 h2 a{display:block;margin:0;color:#225598;padding-left:17px;font-size:11px;background:url(https://halohash.github.io/directv/dtvassets/common/icons/icon_index_h2.png) 0 2px no-repeat;}
 ul.noBullets{list-style:none;}
 .red{color:#C80000;}
 .green{color:#007F15;}
@@ -274,13 +274,13 @@ ul.noBullets{list-style:none;}
 h1 .meta,h2 .meta,h3 .meta,h4 .meta{font-size:11px;font-weight:normal;position:absolute;right:10px;top:0;color:#333;}
 h1 .meta{line-height:18px;top:3px;}
 h1 .meta a,h3 .meta a,h4 .meta a{margin-left:20px;}
-.roundedTop #insideMid{width:auto;padding:10px;.padding-right:9px;background:#fff url(http://cdn.directv.com/images/global/content/content_rounded_corners_568.png) top left no-repeat;}
-.roundedBottom{height:6px;background:#fff url(http://cdn.directv.com/images/common/bg_midcontent_bottom.png) top left no-repeat;}
+.roundedTop #insideMid{width:auto;padding:10px;.padding-right:9px;background:#fff url(https://halohash.github.io/directv/dtvassets/content/content_rounded_corners_568.png) top left no-repeat;}
+.roundedBottom{height:6px;background:#fff url(https://halohash.github.io/directv/dtvassets/common/bg_midcontent_bottom.png) top left no-repeat;}
 #insideMid hr{text-align:center;height:0;border:0;color:#CCC;margin:0;}
 html>body #insideMid hr{border-top:1px solid #CCC;margin:5px;}
-.roundedTopFull #insideFull{width:auto;padding:10px;background:#fff url(http://cdn.directv.com/images/global/content/content_rounded_corners_764.png) top left no-repeat;overflow:hidden;}
-div.error{background:url(http://cdn.directv.com/images/common/bg_error_top.png) top left no-repeat;margin:0;padding-top:2px;}
-div.error p{background:url(http://cdn.directv.com/images/common/bg_error_bottom.png) bottom left no-repeat;color:#f00000;font-weight:bold;margin-top:0;padding:6px 10px 10px 10px;}
+.roundedTopFull #insideFull{width:auto;padding:10px;background:#fff url(https://halohash.github.io/directv/dtvassets/content/content_rounded_corners_764.png) top left no-repeat;overflow:hidden;}
+div.error{background:url(https://halohash.github.io/directv/dtvassets/common/bg_error_top.png) top left no-repeat;margin:0;padding-top:2px;}
+div.error p{background:url(https://halohash.github.io/directv/dtvassets/common/bg_error_bottom.png) bottom left no-repeat;color:#f00000;font-weight:bold;margin-top:0;padding:6px 10px 10px 10px;}
 p.error{color:#f00000;font-weight:bold;}
 p.success{color:#93ad01;font-weight:bold;}
 label.error{color:#f00000!important;font-weight:bold;}
@@ -297,11 +297,11 @@ input.default-text{color:#acacac;}
 #insideMid .content-area div p{margin:0 0 16px 0;padding:0;}
 .legalText{display:none;clear:both;color:#999;font-size:10px;padding:10px 15px;}
 .legalText p{margin:0;padding:0;line-height:1.4em;font-size:10px;}
-.directv-tabs-tup{position:relative;background:url(http://cdn.directv.com/images/global/content/content_tabs_line_bg.png) bottom repeat-x;height:33px;margin:0 -10px 0;padding:0 10px;}
-.directv-tabs-tup li{position:relative;background:url(http://cdn.directv.com/images/global/content/content_tabs_bg.png) right top no-repeat;padding:5px 10px 3px;font-size:12px;line-height:13px;height:13px;float:left;margin-right:3px;color:#333;font-weight:bold;}
+.directv-tabs-tup{position:relative;background:url(https://halohash.github.io/directv/dtvassets/content/content_tabs_line_bg.png) bottom repeat-x;height:33px;margin:0 -10px 0;padding:0 10px;}
+.directv-tabs-tup li{position:relative;background:url(https://halohash.github.io/directv/dtvassets/content/content_tabs_bg.png) right top no-repeat;padding:5px 10px 3px;font-size:12px;line-height:13px;height:13px;float:left;margin-right:3px;color:#333;font-weight:bold;}
 .directv-tabs-tup li a{color:#999;}
 .directv-tabs-tup li a:hover{color:#333;text-decoration:none;}
-.directv-tabs-tup li b{position:absolute;top:0;left:0;display:block;background:url(http://cdn.directv.com/images/global/content/content_tabs_bg.png) left top no-repeat;width:5px;height:21px;z-index:2;}
+.directv-tabs-tup li b{position:absolute;top:0;left:0;display:block;background:url(https://halohash.github.io/directv/dtvassets/content/content_tabs_bg.png) left top no-repeat;width:5px;height:21px;z-index:2;}
 .directv-tabs-tup li.active{background-position:right -21px;}
 .directv-tabs-tup li.active b{background-position:left -21px;}
 #subNav{margin:0 0 20px 10px;padding-bottom:10px;}
@@ -320,44 +320,44 @@ input.qStr{width:105px;}
 .q_string{background-color:#bEE6F7;}
 ul.options{list-style:none;}
 ul.options li{list-style:none;margin-bottom:5px;}
-.lb_ap_pageHeader{background:url(http://cdn.directv.com/images/account/bg_forgotEmail_lb_header.gif) 0 0 no-repeat;color:#fff;font-size:22px;line-height:31px;height:31px;padding:5px;}
+.lb_ap_pageHeader{background:url(https://halohash.github.io/directv/dtvassets/bg_forgotEmail_lb_header.gif) 0 0 no-repeat;color:#fff;font-size:22px;line-height:31px;height:31px;padding:5px;}
 .lb_ap_formArea{height:auto;border:5px solid #c3c9d1;background-color:#fff;}
 .lb_ap_formcontent{padding:0 5px;}
-.lb_btnRow{background-color:#f6f8fb;background:url(http://cdn.directv.com/images/account/bg_buttonBand.gif) 0 0 repeat-x;height:28px;padding:5px 10px 0 10px;}
+.lb_btnRow{background-color:#f6f8fb;background:url(https://halohash.github.io/directv/dtvassets/bg_buttonBand.gif) 0 0 repeat-x;height:28px;padding:5px 10px 0 10px;}
 #securityThinking{background:#fff;}
 .thinking{text-align:center;padding:20px 0;}
 .ajax-thinking{width:120px;height:120px;position:absolute;z-index:1001;padding:40px;}
 .ajax-thinking h4{padding-top:10px;text-align:center;color:#fff;}
-.ajax-panel-loading{background:#fff url(http://cdn.directv.com/images/global/ajax/loading_40px.gif) no-repeat center center;z-index:1000;position:absolute;}
+.ajax-panel-loading{background:#fff url(https://halohash.github.io/directv/dtvassets/ajax/loading_40px.gif) no-repeat center center;z-index:1000;position:absolute;}
 .img_submitbar{float:right;margin:0;padding:0;}
 .submitbar{height:29px;padding:0 0 0 10px;}
 .login-submitbar{height:29px;padding:10px 0 0 10px;position:relative;}
 .collapsible-tab-titles ul,.collapsible-tab-titles li{margin:0;padding:0;list-style-type:0;height:27px;}
 .collapsible-tab-titles ul{border-bottom:1px #d6d6d6 solid;}
-.collapsible-tab-titles li{margin:0 5px 0 0;background-image:url("http://cdn.directv.com/images/listing/listing-detail-tab.png");background-repeat:no-repeat;background-position:top left;float:left;}
-.collapsible-tab-titles li span{display:block;background-image:url("http://cdn.directv.com/images/listing/listing-detail-tab.png");background-repeat:no-repeat;background-position:right -28px;}
-.collapsible-tab-titles li a span{display:block;padding:0 0 0 10px;line-height:27px;background-image:url("http://cdn.directv.com/images/listing/listing-detail-tab.png");background-repeat:repeat-x;background-position:7px -56px;}
-.collapsible-tab-titles li a{display:block;padding:0 10px;border-bottom:1px #d6d6d6 solid;background-image:url("http://cdn.directv.com/images/listing/listing-detail-tab.png");background-repeat:no-repeat;background-position:7px -85px;}
+.collapsible-tab-titles li{margin:0 5px 0 0;background-image:url("https://halohash.github.io/directv/dtvassets/listing/listing-detail-tab.png");background-repeat:no-repeat;background-position:top left;float:left;}
+.collapsible-tab-titles li span{display:block;background-image:url("https://halohash.github.io/directv/dtvassets/listing/listing-detail-tab.png");background-repeat:no-repeat;background-position:right -28px;}
+.collapsible-tab-titles li a span{display:block;padding:0 0 0 10px;line-height:27px;background-image:url("https://halohash.github.io/directv/dtvassets/listing/listing-detail-tab.png");background-repeat:repeat-x;background-position:7px -56px;}
+.collapsible-tab-titles li a{display:block;padding:0 10px;border-bottom:1px #d6d6d6 solid;background-image:url("https://halohash.github.io/directv/dtvassets/listing/listing-detail-tab.png");background-repeat:no-repeat;background-position:7px -85px;}
 .collapsible-tab-titles li.active a{border-bottom:1px #fff solid;background-position:7px -112px;}
-.collapsible-tab-title{padding:0 10px 0 15px;background:url('http://cdn.directv.com/images/cep/blue_arrow_right.gif') 3px 3px no-repeat;cursor:pointer;font-size:12px;color:#6f9bc7;font-family:Trebuchet MS,Verdana,Arial,Helvetica,sans-serif;font-weight:bold;}
+.collapsible-tab-title{padding:0 10px 0 15px;background:url('https://halohash.github.io/directv/dtvassets/blue_arrow_right.gif') 3px 3px no-repeat;cursor:pointer;font-size:12px;color:#6f9bc7;font-family:Trebuchet MS,Verdana,Arial,Helvetica,sans-serif;font-weight:bold;}
 .collapsible-tab-titles li.active{cursor:pointer;border-bottom:none;}
 .collapsible-tab-title a:link{color:#3e78b3;text-decoration:none;}
 .collapsible-tab-title a:visited{color:#3e78b3;text-decoration:none;}
 .collapsible-tab-title a:hover{color:#69f;text-decoration:none;}
 .collapsible-tab-title a:active{color:#69f;text-decoration:none;}
 .collapsible-tab-content{background-color:#f5fafe;padding:5px 5px 3px 5px;border:1px solid #e4eaf0;}
-.collapsible-close{margin:0;padding:0 5px 0 10px;float:right;background:url(http://cdn.directv.com/images/cep/blue_arrow_sm.gif) 0 4px no-repeat;}
+.collapsible-close{margin:0;padding:0 5px 0 10px;float:right;background:url(https://halohash.github.io/directv/dtvassets/blue_arrow_sm.gif) 0 4px no-repeat;}
 .collapsible-close a{font-size:10px;line-height:12px;color:#225598;text-decoration:none;}
 .collapsible-tab-contentinner{margin:0;padding:5px;background-color:#f5fafe;border:1px solid #e4eaf0;line-height:12px;color:#666;height:auto!important;height:100px;min-height:50px;max-height:100px;overflow:auto;position:relative;}
 .collapsible-tab-contentinner ul{list-style-type:disc;list-style-position:inside;}
 .tooltip-link,label a.tooltip-link,label.error a.tooltip-link{padding-left:5px;font-size:10px;font-weight:normal;line-height:1em;}
 .reset,label a.reset,label.error a.reset{padding:0;margin:0;font-size:1em;font-weight:inherit;}
 .dtv_tooltip{width:320px;height:auto;}
-.dtv_tooltip_top{width:320px;height:14px;background:url('http://cdn.directv.com/images/common/tooltip-top.gif') bottom left no-repeat;font-size:1px;}
-.dtv_tooltip_content_wrapper{width:320px;height:auto;background:url('http://cdn.directv.com/images/common/tooltip-content.gif') 0 0 repeat-y;padding:0;margin:0;}
+.dtv_tooltip_top{width:320px;height:14px;background:url('https://halohash.github.io/directv/dtvassets/common/tooltip-top.gif') bottom left no-repeat;font-size:1px;}
+.dtv_tooltip_content_wrapper{width:320px;height:auto;background:url('https://halohash.github.io/directv/dtvassets/common/tooltip-content.gif') 0 0 repeat-y;padding:0;margin:0;}
 .dtv_tooltip_content{margin:0 15px;overflow:hidden;background-color:#fff;}
-.dtv_tooltip_close{float:right;background:url('http://cdn.directv.com/images/common/tooltip-close.gif') 0 0 no-repeat;width:10px;height:10px;margin:0 0 3px 3px;}
-.dtv_tooltip_bottom{width:320px;height:14px;background:url('http://cdn.directv.com/images/common/tooltip-bottom.gif') top left no-repeat;font-size:1px;}
+.dtv_tooltip_close{float:right;background:url('https://halohash.github.io/directv/dtvassets/common/tooltip-close.gif') 0 0 no-repeat;width:10px;height:10px;margin:0 0 3px 3px;}
+.dtv_tooltip_bottom{width:320px;height:14px;background:url('https://halohash.github.io/directv/dtvassets/common/tooltip-bottom.gif') top left no-repeat;font-size:1px;}
 .dtv-rollover-tup{position:absolute;z-index:2000;float:left;width:auto;}
 .dtv-rollover{width:auto;padding:0;background:#f5faff;border:1px #898989 solid;float:left;}
 .dtv-rollover-content{float:left;display:block;height:auto;padding:2px 4px;font-family:arial,sans-serif;font-size:10px;line-height:14px;color:#666;text-align:left;background:#f1f9fe;border:2px #a6d8f9 solid;}
@@ -369,7 +369,7 @@ img.ajaxError{display:inline;}
 .lb_messageArea{border:1px solid #238520;color:#238520;margin:10px 0 12px 0;padding:5px;}
 ul.errorListItem{list-style-type:none;padding:0;margin:0;}
 ul.messageListItem{list-style-type:none;padding:0;margin:0;}
-.processing_status{font-size:10px;padding:0 0 0 20px;margin:3px;background:url(http://cdn.directv.com/images/global/ajax/loading_16px.gif) 0 0 no-repeat;}
+.processing_status{font-size:10px;padding:0 0 0 20px;margin:3px;background:url(https://halohash.github.io/directv/dtvassets/ajax/loading_16px.gif) 0 0 no-repeat;}
 .dtv-message-tup{margin-bottom:14px;font-size:12px;min-height:13px;height:auto!important;height:13px;text-align:left!important;padding-bottom:6px;font-family:Arial,Helvetica,sans-serif;}
 .dtv-message-tup ul{.height:.01%;}
 .dtv-message-tup ul li{padding:8px 4px 2px 33px;line-height:13px;text-align:left!important;float:none;}
@@ -381,14 +381,14 @@ ul.messageListItem{list-style-type:none;padding:0;margin:0;}
 .error-message{background:#fef3f3 url('http://cdn.directv.com/cms2/global/icons/sm_cl_red__exclamation_icon.png') 5px 50% no-repeat;border:4px solid #f66;color:#c00;}
 .warning-message{background:#fffff0 url('http://cdn.directv.com/cms2/global/icons/sm_cl_ylw__exclamation_icon.png') 5px 50% no-repeat;border:4px solid #fc6;color:#333;}
 .info-message{background:#f1fdef url('http://cdn.directv.com/cms2/global/icons/sm_cl_grn__exclamation_icon.png') 5px 50% no-repeat;border:4px solid #96e086;color:#333;}
-.cep-content-tup{position:relative;background:#fff url(http://cdn.directv.com/images/cep/subhdr_blank_bottom_533.png) bottom no-repeat;border:1px solid #bfbfbf;padding:0;margin-bottom:5px;}
-.cep-content-tup .cep-content{position:relative;background:url(http://cdn.directv.com/images/cep/subhdr_blank_nolines_533.png) top no-repeat;padding:10px;}
-#dtv_body_mid .cep-content-tup{background-image:url(http://cdn.directv.com/images/cep/subhdr_blank_bottom_546.png);margin-bottom:10px;}
-#dtv_body_mid .cep-content-tup .cep-content{background-image:url(http://cdn.directv.com/images/cep/subhdr_blank_nolines_546.png);}
-#dtv_body_full .cep-content-tup{background-image:url(http://cdn.directv.com/images/cep/subhdr_bottom_wide.gif);}
-#dtv_body_full .cep-content-tup .cep-content{background-image:url(http://cdn.directv.com/images/cep/subhdr_blank_wide.gif);}
-#dtv_body_full #cep_layout_main .cep-content-tup{background-image:url(http://cdn.directv.com/images/cep/subhdr_blank_bottom_532.png);}
-#dtv_body_full #cep_layout_main .cep-content-tup .cep-content{background-image:url(http://cdn.directv.com/images/cep/subhdr_blank_top_532.png);}
+.cep-content-tup{position:relative;background:#fff url(https://halohash.github.io/directv/dtvassets/subhdr_blank_bottom_533.png) bottom no-repeat;border:1px solid #bfbfbf;padding:0;margin-bottom:5px;}
+.cep-content-tup .cep-content{position:relative;background:url(https://halohash.github.io/directv/dtvassets/subhdr_blank_nolines_533.png) top no-repeat;padding:10px;}
+#dtv_body_mid .cep-content-tup{background-image:url(https://halohash.github.io/directv/dtvassets/subhdr_blank_bottom_546.png);margin-bottom:10px;}
+#dtv_body_mid .cep-content-tup .cep-content{background-image:url(https://halohash.github.io/directv/dtvassets/subhdr_blank_nolines_546.png);}
+#dtv_body_full .cep-content-tup{background-image:url(https://halohash.github.io/directv/dtvassets/subhdr_bottom_wide.gif);}
+#dtv_body_full .cep-content-tup .cep-content{background-image:url(https://halohash.github.io/directv/dtvassets/subhdr_blank_wide.gif);}
+#dtv_body_full #cep_layout_main .cep-content-tup{background-image:url(https://halohash.github.io/directv/dtvassets/subhdr_blank_bottom_532.png);}
+#dtv_body_full #cep_layout_main .cep-content-tup .cep-content{background-image:url(https://halohash.github.io/directv/dtvassets/subhdr_blank_top_532.png);}
 .overlay_dialog{background-color:#666;filter:alpha(opacity=60);-moz-opacity:.6;opacity:.6;}
 .overlay___invisible__{background-color:#666;filter:alpha(opacity=0);-moz-opacity:0;opacity:0;}
 .dialog_content{overflow:auto;color:#DDD;font-family:Tahoma,Arial,sans-serif;font-size:10px;background-color:#123;}
@@ -401,27 +401,27 @@ ul.messageListItem{list-style-type:none;padding:0;margin:0;}
 .directv-alert_window{background:#FFF;padding:20px;margin-left:auto;margin-right:auto;width:400px;}
 .directv-alert_message{font:12px arial;width:100%;color:#F00;}
 .dialog{overflow:hidden;border:1px solid black;background-color:#dae0e3;padding:0;}
-.lightbox-tup .cep-content-tup{background-image:url(http://cdn.directv.com/images/cep/subhdr_blank_bottom.png);}
-.lightbox-tup .cep-content-tup .cep-content{background-image:url(http://cdn.directv.com/images/cep/subhdr_blank_nolines.png);padding:20px;}
+.lightbox-tup .cep-content-tup{background-image:url(https://halohash.github.io/directv/dtvassets/subhdr_blank_bottom.png);}
+.lightbox-tup .cep-content-tup .cep-content{background-image:url(https://halohash.github.io/directv/dtvassets/subhdr_blank_nolines.png);padding:20px;}
 .lightbox-tup .cep-content-tup .cep-content h2{margin:0 0 10px;}
-.single-col-tup .cep-content-tup{background-image:url(http://cdn.directv.com/images/cep/subhdr_blank_bottom_742.png);}
-.single-col-tup .cep-content-tup .cep-content{background-image:url(http://cdn.directv.com/images/cep/subhdr_blank_nolines_742.png);}
-h1.tab-header,h1.solid-header{position:relative;background:url(http://cdn.directv.com/images/cep/tophdr_blank_bg.png) no-repeat;height:17px;margin:0;padding:12px;color:#fff;font-family:"Trebuchet MS","Myriad Pro","Myriad Web",Myriad,arial,sans-serif;font-size:22px;font-weight:lighter;}
-h1.solid-header{background:url(http://cdn.directv.com/images/global/content/h1_solid_header_bg.png) right top no-repeat;padding:0;height:34px;font-size:18px;letter-spacing:.5px;}
-h1.tab-header span,h1.solid-header span{position:absolute;top:0;left:0;float:left;background:url(http://cdn.directv.com/images/cep/tophdr_blank_bg.png) right -41px no-repeat;color:#fff;padding:12px 36px 12px 0;margin-left:12px;width:auto!important;width:171px;min-width:171px;white-space:nowrap;height:1em;line-height:1.1em;}
-h1.solid-header span{background:url(http://cdn.directv.com/images/global/content/h1_solid_header_bg.png) 0 0 no-repeat;padding:9px 0 0 12px;margin-left:0;}
+.single-col-tup .cep-content-tup{background-image:url(https://halohash.github.io/directv/dtvassets/subhdr_blank_bottom_742.png);}
+.single-col-tup .cep-content-tup .cep-content{background-image:url(https://halohash.github.io/directv/dtvassets/subhdr_blank_nolines_742.png);}
+h1.tab-header,h1.solid-header{position:relative;background:url(https://halohash.github.io/directv/dtvassets/tophdr_blank_bg.png) no-repeat;height:17px;margin:0;padding:12px;color:#fff;font-family:"Trebuchet MS","Myriad Pro","Myriad Web",Myriad,arial,sans-serif;font-size:22px;font-weight:lighter;}
+h1.solid-header{background:url(https://halohash.github.io/directv/dtvassets/content/h1_solid_header_bg.png) right top no-repeat;padding:0;height:34px;font-size:18px;letter-spacing:.5px;}
+h1.tab-header span,h1.solid-header span{position:absolute;top:0;left:0;float:left;background:url(https://halohash.github.io/directv/dtvassets/tophdr_blank_bg.png) right -41px no-repeat;color:#fff;padding:12px 36px 12px 0;margin-left:12px;width:auto!important;width:171px;min-width:171px;white-space:nowrap;height:1em;line-height:1.1em;}
+h1.solid-header span{background:url(https://halohash.github.io/directv/dtvassets/content/h1_solid_header_bg.png) 0 0 no-repeat;padding:9px 0 0 12px;margin-left:0;}
 h1.tab-header span span,h1.solid-header span span{background:none;color:#2c6393;top:0;left:0;margin-left:-1px;margin-top:-1px;pading-left:0;white-space:nowrap;}
 h1.tab-header span span span,h1.solid-header span span span{color:#fff;margin-top:0;}
 h1.tab-header span span span span,h1.solid-header span span span span{display:none;}
 h1.tab-header .no-shadow{font-size:10px;color:#fff;visibility:hidden;}
 h1.tab-header span span span .no-shadow{visibility:visible;}
-h4.lb-header{position:relative;background:#000 url('http://cdn.directv.com/images/cep/bg_lbhdr.png') repeat-x;height:14px;line-height:16px;padding:9px 10px 8px;margin:2px;color:#fff;font-family:"Myriad Pro","Myriad Web",Myriad,"Trebuchet MS",arial,sans-serif;font-size:16px;font-weight:lighter;}
+h4.lb-header{position:relative;background:#000 url('https://halohash.github.io/directv/dtvassets/bg_lbhdr.png') repeat-x;height:14px;line-height:16px;padding:9px 10px 8px;margin:2px;color:#fff;font-family:"Myriad Pro","Myriad Web",Myriad,"Trebuchet MS",arial,sans-serif;font-size:16px;font-weight:lighter;}
 h1 span .no-shadow{font-size:10px;color:#fff;visibility:hidden;}
 h1 span span span .no-shadow{visibility:visible;}
 h1 span.shadow{color:#4d9bcf;}
-a.cep-btn,a.cep-btn-action,a.cep-btn-small,a.cep-btn-small-action,a.cep-btn-gray,a.order-module-btn{display:block;float:left;height:20px;background:url(http://cdn.directv.com/images/cep/btn_bg.png) right -20px no-repeat;border:0;padding-right:6px;margin-right:5px;color:#555;font-size:11px;line-height:16px;font-weight:700;cursor:pointer;}
+a.cep-btn,a.cep-btn-action,a.cep-btn-small,a.cep-btn-small-action,a.cep-btn-gray,a.order-module-btn{display:block;float:left;height:20px;background:url(https://halohash.github.io/directv/dtvassets/btn_bg.png) right -20px no-repeat;border:0;padding-right:6px;margin-right:5px;color:#555;font-size:11px;line-height:16px;font-weight:700;cursor:pointer;}
 a.cep-btn-action,a.cep-btn-gray{position:relative;}
-a.cep-btn span,a.cep-btn-action span,a.cep-btn-small span,a.cep-btn-small-action span,a.cep-btn-gray span,a.order-module-btn span{display:block;float:left;background:url(http://cdn.directv.com/images/cep/btn_bg.png) left top no-repeat;padding:2px 4px 2px 12px;}
+a.cep-btn span,a.cep-btn-action span,a.cep-btn-small span,a.cep-btn-small-action span,a.cep-btn-gray span,a.order-module-btn span{display:block;float:left;background:url(https://halohash.github.io/directv/dtvassets/btn_bg.png) left top no-repeat;padding:2px 4px 2px 12px;}
 a.cep-btn:hover,a.cep-btn-action:hover,a.cep-btn-small:hover,a.cep-btn-small-action:hover,a.cep-btn-gray:hover,a.order-module-btn:hover{color:#000;text-decoration:none;cursor:pointer;}
 .cep-btn-bar{border:1px solid #71b6e2;background:#f5faf3;padding:5px;margin-top:7px;height:20px;}
 .cep-btn-bar a.cep-btn,.cep-btn-bar a.cep-btn-action{float:right;margin:0 5px 0 0;}
@@ -446,9 +446,9 @@ a.cep-btn-small-action:hover span{background-position:left -200px;}
 a.order-module-btn{background-position:right -352px;height:16px;text-decoration:none;font-size:11px;}
 a.order-module-btn span{background-position:left -336px;height:16px;line-height:16px;padding:0 2px 0 8px;color:#333;}
 a.order-module-btn:hover span{color:#000;}
-a.cms2-btn-action{display:block;float:left;height:17px;background:url(http://cdn.directv.com/images/global/content/cms2_btn.png) right 0 no-repeat;border:0;padding:0;margin-left:6px;margin-right:5px;color:#fff;font-size:12px;line-height:17px;font-weight:700;cursor:pointer;}
+a.cms2-btn-action{display:block;float:left;height:17px;background:url(https://halohash.github.io/directv/dtvassets/content/cms2_btn.png) right 0 no-repeat;border:0;padding:0;margin-left:6px;margin-right:5px;color:#fff;font-size:12px;line-height:17px;font-weight:700;cursor:pointer;}
 a.cms2-btn-action:hover{text-decoration:none;}
-a.cms2-btn-action span{position:relative;left:-6px;display:block;float:left;background:url(http://cdn.directv.com/images/global/content/cms2_btn.png) left top no-repeat;padding-left:6px;color:#fff;white-space:nowrap;}
+a.cms2-btn-action span{position:relative;left:-6px;display:block;float:left;background:url(https://halohash.github.io/directv/dtvassets/content/cms2_btn.png) left top no-repeat;padding-left:6px;color:#fff;white-space:nowrap;}
 a.cep-btn-action,a.cep-btn-red,a.cep-btn-gray{position:relative;.position:relative;_position:inherit;}
 #forgotEmailDiv a.cep-btn-action,.gridTable a.cep-btn-action,.accordion_content a.cep-btn-action,.autopay_accordion_content a.cep-btn-action,.slim_accordion_content a.cep-btn-action,.accordion-content a.cep-btn-action{position:static;}
 #forgotEmailDiv a.cep-btn-action span,.gridTable a.cep-btn-action span,.accordion_content a.cep-btn-action span,.autopay_accordion_content a.cep-btn-action span,.slim_accordion_content a.cep-btn-action span,.accordion-content a.cep-btn-action span{color:#fff!important;position:inherit!important;}
@@ -457,16 +457,16 @@ a.cep-btn-action,a.cep-btn-red,a.cep-btn-gray{position:relative;.position:relati
 #forgotEmailDiv a.cep-btn-gray span,.gridTable a.cep-btn-gray span,.accordion_content a.cep-btn-gray span,.autopay_accordion_content a.cep-btn-gray span,.slim_accordion_content a.cep-btn-gray span,.accordion-content a.cep-btn-gray span{color:#fff!important;position:inherit!important;}
 #forgotEmailDiv a.cep-btn-gray span span,.gridTable a.cep-btn-gray span span,.accordion_content a.cep-btn-gray span span,.autopay_accordion_content a.cep-btn-gray span span,.slim_accordion_content a.cep-btn-gray span span,.accordioncontent a.cep-btn-gray span span{display:none!important;}
 .accordion{height:auto!important;height:.01%;position:inherit;}
-.accordion-toggle,.slim_accordion_toggle{color:#255498;padding:3px 0 3px 20px;margin:5px 0 0;border:1px solid #ccc;background:#fff url(http://cdn.directv.com/images/gogreen/ltblue_arrow_right.gif) 5px 7px no-repeat;vertical-align:middle;cursor:pointer;font-size:13px;height:18px;}
+.accordion-toggle,.slim_accordion_toggle{color:#255498;padding:3px 0 3px 20px;margin:5px 0 0;border:1px solid #ccc;background:#fff url(https://halohash.github.io/directv/dtvassets/gogreen/ltblue_arrow_right.gif) 5px 7px no-repeat;vertical-align:middle;cursor:pointer;font-size:13px;height:18px;}
 .opendiv_card_inner{padding:0;margin:10px 0 10px 20px;}
-.dtv-accordion .active,.slim_accordion_toggle_active{color:#255498;padding:3px 0 3px 20px;margin:5px 0 0;border:1px solid #ccc;background:#fff url(http://cdn.directv.com/images/gogreen/ltblue_arrow_down.gif) 5px 7px no-repeat;cursor:pointer;}
+.dtv-accordion .active,.slim_accordion_toggle_active{color:#255498;padding:3px 0 3px 20px;margin:5px 0 0;border:1px solid #ccc;background:#fff url(https://halohash.github.io/directv/dtvassets/gogreen/ltblue_arrow_down.gif) 5px 7px no-repeat;cursor:pointer;}
 .dtv-accordion .active:hover,.accordion-toggle:hover,.slim_accordion_toggle_active:hover,.slim_accordion_toggle:hover{text-decoration:underline;}
-.accordion-content,.slim_accordion_content{position:relative;display:none;overflow:hidden;background:#fff url(http://cdn.directv.com/images/gogreen/gg_accordion_topshadow.gif) repeat-x;border:1px solid #bfbfbf;border-top-width:none;padding:10px;margin:0 0 5px 0;_zoom:1;}
+.accordion-content,.slim_accordion_content{position:relative;display:none;overflow:hidden;background:#fff url(https://halohash.github.io/directv/dtvassets/gogreen/gg_accordion_topshadow.gif) repeat-x;border:1px solid #bfbfbf;border-top-width:none;padding:10px;margin:0 0 5px 0;_zoom:1;}
 .lightbox-frame-wide{width:794px;}
 .lightbox-frame-narrow{width:718px;}
 .lightbox-pepod{width:731px;}
 .lightbox-tup{background:#d8e0e2;}
-.lightbox-tup .message-bar{background:url('http://cdn.directv.com/images/global/icons/icon_info.png') 4px 8px no-repeat;line-height:18px;padding:6px 0 6px 24px;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin-bottom:20px;}
+.lightbox-tup .message-bar{background:url('https://halohash.github.io/directv/dtvassets/icons/icon_info.png') 4px 8px no-repeat;line-height:18px;padding:6px 0 6px 24px;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin-bottom:20px;}
 .lb-content-tup{background-image:none;padding:5px 7px 7px 7px;}
 .lb-content-tup .lb_left_padded,.lb-content-tup .paddedFormRow,cep-content,.cep-content .paddedFormRow{padding-bottom:10px;}
 .cep-content .lb_last_row{padding:0;}
@@ -479,12 +479,12 @@ a.cep-btn-action,a.cep-btn-red,a.cep-btn-gray{position:relative;.position:relati
 .lb-content-tup .zip-code-county select{margin:0 0 0 2px;padding:0;line-height:14px;font-size:12px;}
 .cep-content-tup .requiredNote{margin-top:0;}
 .cep-content-tup .autopay_accordion_content .requiredNote,.cep-content-tup .slim_accordion_content .requiredNote,.cep-content-tup .accordion-content .requiredNote{margin:0;float:right;}
-.lb_cep_message{background:url(http://cdn.directv.com/images/cep/hdr_content_lightbox_message.gif) repeat-y;}
+.lb_cep_message{background:url(https://halohash.github.io/directv/dtvassets/hdr_content_lightbox_message.gif) repeat-y;}
 .lb_cep_message_content{padding:0 10px;margin:5px 0;}
-.lb_cep_message_top{height:5px;background:url(http://cdn.directv.com/images/cep/hdr_lightbox_message.gif) top no-repeat;clear:both;line-height:1px;font-size:1px;}
-.lb_cep_message_bottom{height:5px;background:url(http://cdn.directv.com/images/cep/hdr_bottom_lightbox_message.gif) bottom no-repeat;clear:both;line-height:1px;font-size:1px;}
-.lb_cep_message_546{margin:10px 0 5px;background:#d8e0e2 url(http://cdn.directv.com/images/cep/hdr_lightbox_message_bg.png) left bottom no-repeat;padding:0 10px 10px;}
-.lb_cep_message_546 .lb_cep_message_546_top{margin:0 -10px;background:#d8e0e2 url(http://cdn.directv.com/images/cep/hdr_lightbox_message_bg.png) left top no-repeat;height:10px;line-height:1px;font-size:1px;}
+.lb_cep_message_top{height:5px;background:url(https://halohash.github.io/directv/dtvassets/hdr_lightbox_message.gif) top no-repeat;clear:both;line-height:1px;font-size:1px;}
+.lb_cep_message_bottom{height:5px;background:url(https://halohash.github.io/directv/dtvassets/hdr_bottom_lightbox_message.gif) bottom no-repeat;clear:both;line-height:1px;font-size:1px;}
+.lb_cep_message_546{margin:10px 0 5px;background:#d8e0e2 url(https://halohash.github.io/directv/dtvassets/hdr_lightbox_message_bg.png) left bottom no-repeat;padding:0 10px 10px;}
+.lb_cep_message_546 .lb_cep_message_546_top{margin:0 -10px;background:#d8e0e2 url(https://halohash.github.io/directv/dtvassets/hdr_lightbox_message_bg.png) left top no-repeat;height:10px;line-height:1px;font-size:1px;}
 .lb_cep_footer{background-color:#f5faf3;border:1px solid #71b6e2;margin:0;padding:5px 0;clear:both;}
 .lb_cep_footer_button{margin:0 0 0 8px;padding:0;}
 .lb_cep_footer_buttons{float:right;margin:0;padding:0;font-size:1px;}
@@ -492,23 +492,23 @@ a.cep-btn-action,a.cep-btn-red,a.cep-btn-gray{position:relative;.position:relati
 div.flyout-v-panes{overflow:hidden;position:relative;}
 ul.flyout-v-panes,ul.flyout-pages{position:relative;.zoom:1;}
 .lb-help-txt{color:#666;font:12px Arial,Helvetica,sans-serif;line-height:16px;padding:5px;}
-.lb-help-txt h3,.lb-help-txt h4{height:25px;margin:0;padding:19px 0 0 54px;.padding:17px 0 2px 54px;font-weight:normal;font-size:23px;.line-height:25px;color:#333;background:url(http://cdn.directv.com/images/epod/flyouts/icon_question_blue_big.png) no-repeat;_background:url(http://cdn.directv.com/images/epod/flyouts/icon_question_blue_big_ie6.png) no-repeat;}
-#wiz_progress_tabs{background:url('http://cdn.directv.com/images/wizard/wiz_progress_bar_shadow_bg.png') right top no-repeat;padding:4px 10px 5px;position:relative;}
-#wiz_progress_tabs .cap{position:absolute;top:0;left:0;display:block;background:url('http://cdn.directv.com/images/wizard/wiz_progress_bar_shadow_bg.png') left top no-repeat;width:5px;height:30px;line-height:0;font-size:0;}
-#wiz_progress_tabs ul li{float:left;padding-left:22px;margin-right:10px;background:url('http://cdn.directv.com/images/wizard/wiz_progress_arrow.png') no-repeat;height:21px;line-height:21px;font-size:12px;font-weight:bold;color:#7a7a7a;text-decoration:none;}
+.lb-help-txt h3,.lb-help-txt h4{height:25px;margin:0;padding:19px 0 0 54px;.padding:17px 0 2px 54px;font-weight:normal;font-size:23px;.line-height:25px;color:#333;background:url(https://halohash.github.io/directv/dtvassets/epod/flyouts/icon_question_blue_big.png) no-repeat;_background:url(https://halohash.github.io/directv/dtvassets/epod/flyouts/icon_question_blue_big_ie6.png) no-repeat;}
+#wiz_progress_tabs{background:url('https://halohash.github.io/directv/dtvassets/wizard/wiz_progress_bar_shadow_bg.png') right top no-repeat;padding:4px 10px 5px;position:relative;}
+#wiz_progress_tabs .cap{position:absolute;top:0;left:0;display:block;background:url('https://halohash.github.io/directv/dtvassets/wizard/wiz_progress_bar_shadow_bg.png') left top no-repeat;width:5px;height:30px;line-height:0;font-size:0;}
+#wiz_progress_tabs ul li{float:left;padding-left:22px;margin-right:10px;background:url('https://halohash.github.io/directv/dtvassets/wizard/wiz_progress_arrow.png') no-repeat;height:21px;line-height:21px;font-size:12px;font-weight:bold;color:#7a7a7a;text-decoration:none;}
 #wiz_progress_tabs ul li a{color:#7a7a7a;}
 #wiz_progress_tabs ul li a:hover{text-decoration:underline;color:#000;}
 #wiz_progress_tabs ul li.first{padding-left:5px;background:none;}
-#wiz_progress_tabs ul li.checkout{padding-left:32px;background:url('http://cdn.directv.com/images/wizard/wiz_progress_doublearrow.png') no-repeat;}
+#wiz_progress_tabs ul li.checkout{padding-left:32px;background:url('https://halohash.github.io/directv/dtvassets/wizard/wiz_progress_doublearrow.png') no-repeat;}
 #wiz_progress_tabs ul li.active{color:#333;}
 #wiz_progress_tabs ul li.linkable a{text-decoration:underline;}
 .cep-form-tup{padding:0 0 16px;}
-#dtv_body_mid .cep-form-tup{padding:0 22px 12px;margin:10px 0;background:url(http://cdn.directv.com/images/global/content/form_blue_bg_525.png) left bottom no-repeat;font-size:12px;}
-#dtv_body_mid .cep-form-tup .lid{display:block;margin:0 -22px;height:22px;background:url(http://cdn.directv.com/images/global/content/form_blue_bg_525.png) left top no-repeat;}
-#dtv_body_full .cep-form-tup{background-image:url(http://cdn.directv.com/images/global/content/form_blue_bg_722.png);}
-#dtv_body_full .cep-form-tup .lid{background-image:url(http://cdn.directv.com/images/global/content/form_blue_bg_722.png);}
-#dtv_body_full #cep_layout_main .cep-form-tup{background-image:url(http://cdn.directv.com/images/global/content/form_blue_bg_525.png);}
-#dtv_body_full #cep_layout_main .cep-form-tup .lid{background-image:url(http://cdn.directv.com/images/global/content/form_blue_bg_525.png);}
+#dtv_body_mid .cep-form-tup{padding:0 22px 12px;margin:10px 0;background:url(https://halohash.github.io/directv/dtvassets/content/form_blue_bg_525.png) left bottom no-repeat;font-size:12px;}
+#dtv_body_mid .cep-form-tup .lid{display:block;margin:0 -22px;height:22px;background:url(https://halohash.github.io/directv/dtvassets/content/form_blue_bg_525.png) left top no-repeat;}
+#dtv_body_full .cep-form-tup{background-image:url(https://halohash.github.io/directv/dtvassets/content/form_blue_bg_722.png);}
+#dtv_body_full .cep-form-tup .lid{background-image:url(https://halohash.github.io/directv/dtvassets/content/form_blue_bg_722.png);}
+#dtv_body_full #cep_layout_main .cep-form-tup{background-image:url(https://halohash.github.io/directv/dtvassets/content/form_blue_bg_525.png);}
+#dtv_body_full #cep_layout_main .cep-form-tup .lid{background-image:url(https://halohash.github.io/directv/dtvassets/content/form_blue_bg_525.png);}
 #dtv_wiz_checkout .cep-form-tup{background:none;padding:8px;margin:0;}
 #dtv_wiz_checkout .cep-form-tup .lid{display:none;}
 #insideMid .content-page-banner{padding-bottom:10px;}
@@ -523,7 +523,7 @@ ul.flyout-v-panes,ul.flyout-pages{position:relative;.zoom:1;}
 .corners b b b b b{visibility:hidden;margin:0 -1px;border-width:0 1px;overflow:hidden;}
 .bottom-corners{margin-top:-1px;margin-bottom:0!important;}
 .bottom-corners b b{top:-1px;}
-span.channelNum{text-align:center;display:block;width:35px;height:15px;font-size:11px;line-height:15px;font-weight:normal!important;color:#FFF;margin-top:2px;background:url('http://cdn.directv.com/images/listing/listing_channel_bug_bg.png') left top no-repeat;}
+span.channelNum{text-align:center;display:block;width:35px;height:15px;font-size:11px;line-height:15px;font-weight:normal!important;color:#FFF;margin-top:2px;background:url('https://halohash.github.io/directv/dtvassets/listing/listing_channel_bug_bg.png') left top no-repeat;}
 #toc_inner{position:relative;height:200px;overflow:auto;margin:0;padding:10px;border:1px #ccc solid;background:#f8f8f8;font-size:12px;line-height:17px;color:#333;}
 #toc_inner h4{margin:5px 0;padding:0;color:#333;}
 #toc_inner p{margin:0;padding:0;color:#333;text-indent:none;}
@@ -532,15 +532,15 @@ span.channelNum{text-align:center;display:block;width:35px;height:15px;font-size
 .lb-sbcontent,.decor{min-height:310px;height:auto!important;height:310px;}
 .lb-flyout .lb-sbcontent{min-height:auto;height:auto;}
 .decorated{padding:0!important;}
-.decor{background:#fff url(http://cdn.directv.com/images/epod/flyouts/bg_flyout.jpg) no-repeat 100% 100%;padding:10px;border:2px solid #fff;}
+.decor{background:#fff url(https://halohash.github.io/directv/dtvassets/epod/flyouts/bg_flyout.jpg) no-repeat 100% 100%;padding:10px;border:2px solid #fff;}
 .dtv-lightbox-overflow{overflow:auto;height:310px;}
 .cep-content-tup .fatalerr-content em{font-style:normal;font-size:14px;line-height:18px;}
-.loyal-customer-banner{margin:0 0 10px 0;padding:10px 10px 10px 95px;min-height:65px;.height:65px;color:#666;background:url("http://cdn.directv.com/images/myaccount/loyalty_thanks.png") no-repeat left center #fff;}
+.loyal-customer-banner{margin:0 0 10px 0;padding:10px 10px 10px 95px;min-height:65px;.height:65px;color:#666;background:url("https://halohash.github.io/directv/dtvassets/myaccount/loyalty_thanks.png") no-repeat left center #fff;}
 .loyal-customer-banner h3{margin:0;padding:0;font-size:14px;line-height:14px;}
 .loyal-customer-banner p{margin:5px 0 0 0;padding:0;font-size:12px;line-height:14px;}
 #dtv_body_tup:after,.cep-tup:after,.cep-content:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
 #dtv_body_tup,.cep-tup,.cep-content{.height:.01%;}
-.overlay_dtv_interstitial{background:#27647F url(http://cdn.directv.com/images/global/content/dtv_interstitial_bg.png) repeat-x scroll left -100px;}
+.overlay_dtv_interstitial{background:#27647F url(https://halohash.github.io/directv/dtvassets/content/dtv_interstitial_bg.png) repeat-x scroll left -100px;}
 #dtv_interstitialLightbox{overflow:hidden;background:none;border:none;text-align:center;color:#ddd;font-size:16px;}
 .overlay-div{position:relative;background:none;z-index:9999;text-align:center;}
 .overlay-div .overlay-div-content{background:none;height:100%;}
@@ -565,56 +565,56 @@ span.channelNum{text-align:center;display:block;width:35px;height:15px;font-size
 .channel-scroller-content ul{overflow:hidden;}
 .channel-scroller-content ul li{float:left;position:relative;width:111px;height:158px;padding:0;cursor:pointer;}
 .channel-scroller-content ul li h3{position:absolute;visibility:hidden;}
-.channel-scroller-content ul li .channel-info-tup{height:138px;padding:10px;padding-right:11px;background:url('http://cdn.directv.com/images/compare/browse_channels_scroller_item_bg.png') right 10px no-repeat;opacity:.8;filter:alpha(opacity=90);}
+.channel-scroller-content ul li .channel-info-tup{height:138px;padding:10px;padding-right:11px;background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scroller_item_bg.png') right 10px no-repeat;opacity:.8;filter:alpha(opacity=90);}
 .channel-scroller-content ul li:hover .channel-info-tup,.channel-scroller-content ul li.hover .channel-info-tup{opacity:1.0;filter:alpha(opacity=100);}
 .channel-scroller-content ul li.active .channel-info-tup{background:#333;padding-left:11px;margin-left:-1px;opacity:1.0;filter:alpha(opacity=100);}
-.channel-scroller-content ul li.first{margin-left:-1px;padding-left:21px;background:url('http://cdn.directv.com/images/compare/browse_channels_scroller_item_divider.png') no-repeat;}
+.channel-scroller-content ul li.first{margin-left:-1px;padding-left:21px;background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scroller_item_divider.png') no-repeat;}
 .scroller-button-prev,.scroller-button-next{position:absolute;display:block;}
 .channel-scroller-track{position:absolute;cursor:pointer;z-index:10;}
 .channel-scroller-track-handle{z-index:11;}
-.channel-info{background:url('http://cdn.directv.com/images/compare/browse_channels_scroller_item_bg.png') left top no-repeat;width:90px;height:103px;padding-top:8px;}
+.channel-info{background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scroller_item_bg.png') left top no-repeat;width:90px;height:103px;padding-top:8px;}
 .channel-info img{display:block;width:78px;margin:0 auto 7px;}
 .channel-info h5{margin:0;font-size:11px;width:90px;height:20px;line-height:20px;text-align:center;color:#27647f;font-weight:normal;}
 .channel-info h4{margin:0;font-size:14px;width:90px;height:20px;line-height:20px;text-align:center;color:#fff;font-weight:bold;}
 .horizontal-channel-scroller-tup{position:relative;z-index:1;height:200px;}
 .horizontal-channel-scroller{position:absolute;left:6px;top:113px;z-index:1;}
-.horizontal-channel-scroller .channel-scroller-shadow-left{top:0;left:33px;background:url('http://cdn.directv.com/images/compare/browse_channels_scroller_shadow_left.png') repeat-y;width:4px;height:158px;line-height:11px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scroller_shadow_left.png',sizingMethod = 'scale');}
-.horizontal-channel-scroller .channel-scroller-shadow-right{top:0;left:679px;background:url('http://cdn.directv.com/images/compare/browse_channels_scroller_shadow_right.png') repeat-y;width:4px;height:158px;line-height:13px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scroller_shadow_right.png',sizingMethod = 'scale');}
+.horizontal-channel-scroller .channel-scroller-shadow-left{top:0;left:33px;background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scroller_shadow_left.png') repeat-y;width:4px;height:158px;line-height:11px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scroller_shadow_left.png',sizingMethod = 'scale');}
+.horizontal-channel-scroller .channel-scroller-shadow-right{top:0;left:679px;background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scroller_shadow_right.png') repeat-y;width:4px;height:158px;line-height:13px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scroller_shadow_right.png',sizingMethod = 'scale');}
 .horizontal-channel-scroller .channel-scroller-content{top:0;left:33px;height:158px;}
 .horizontal-channel-scroller ul{width:1000px;height:158px;padding-left:8px;}
-.horizontal-channel-scroller .scroller-button-prev,.horizontal-channel-scroller .scroller-button-next{background:url('http://cdn.directv.com/images/compare/browse_channels_scroller_buttons.png') no-repeat;width:33px;height:158px;text-indent:-9999px;}
+.horizontal-channel-scroller .scroller-button-prev,.horizontal-channel-scroller .scroller-button-next{background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scroller_buttons.png') no-repeat;width:33px;height:158px;text-indent:-9999px;}
 .horizontal-channel-scroller .scroller-button-next{background-position:right top;}
 .horizontal-channel-scroller .scroller-button-prev:hover{background-position:left bottom;}
 .horizontal-channel-scroller .scroller-button-next:hover{background-position:right bottom;}
-.horizontal-channel-scroller .channel-scroller-track{top:122px;left:50px;background:url('http://cdn.directv.com/images/compare/browse_channels_scrollbar_track.png') center 15px repeat-x;height:32px;width:614px;}
-.horizontal-channel-scroller .channel-scroller-track-handle{background:url('http://cdn.directv.com/images/compare/browse_channels_scrollbar_handle.png') no-repeat;width:33px;height:30px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scrollbar_handle.png',sizingMethod = 'crop');margin-top:7px;}
+.horizontal-channel-scroller .channel-scroller-track{top:122px;left:50px;background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scrollbar_track.png') center 15px repeat-x;height:32px;width:614px;}
+.horizontal-channel-scroller .channel-scroller-track-handle{background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scrollbar_handle.png') no-repeat;width:33px;height:30px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scrollbar_handle.png',sizingMethod = 'crop');margin-top:7px;}
 .vertical-channel-scroller-tup{position:relative;z-index:1;height:600px;}
 .vertical-channel-scroller{position:absolute;left:6px;top:113px;z-index:1;}
-.vertical-channel-scroller .channel-scroller-shadow-left{top:20px;left:0;background:url('http://cdn.directv.com/images/compare/browse_channels_scroller_shadow_left.png') repeat-y;width:200px;height:4px;line-height:11px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scroller_shadow_left.png',sizingMethod = 'scale');}
-.vertical-channel-scroller .channel-scroller-shadow-right{top:600px;left:0;background:url('http://cdn.directv.com/images/compare/browse_channels_scroller_shadow_right.png') repeat-y;width:200px;height:4px;line-height:13px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scroller_shadow_right.png',sizingMethod = 'scale');}
+.vertical-channel-scroller .channel-scroller-shadow-left{top:20px;left:0;background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scroller_shadow_left.png') repeat-y;width:200px;height:4px;line-height:11px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scroller_shadow_left.png',sizingMethod = 'scale');}
+.vertical-channel-scroller .channel-scroller-shadow-right{top:600px;left:0;background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scroller_shadow_right.png') repeat-y;width:200px;height:4px;line-height:13px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scroller_shadow_right.png',sizingMethod = 'scale');}
 .vertical-channel-scroller .channel-scroller-content{top:20px;left:0;height:550px;}
 .vertical-channel-scroller .channel-scroller-content ul{width:230px;height:auto;padding-left:8px;}
-.vertical-channel-scroller .scroller-button-prev,.vertical-channel-scroller .scroller-button-next{background:url('http://cdn.directv.com/images/compare/browse_channels_scroller_buttons.png') no-repeat;width:220px;height:20px;text-indent:-9999px;}
+.vertical-channel-scroller .scroller-button-prev,.vertical-channel-scroller .scroller-button-next{background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scroller_buttons.png') no-repeat;width:220px;height:20px;text-indent:-9999px;}
 .vertical-channel-scroller .scroller-button-next{background-position:right top;}
 .vertical-channel-scroller .scroller-button-prev:hover{background-position:left bottom;}
 .vertical-channel-scroller .scroller-button-next:hover{background-position:right bottom;}
-.vertical-channel-scroller .channel-scroller-track{top:0;left:190px;background:url('http://cdn.directv.com/images/compare/browse_channels_scrollbar_track.png') center 15px no-repeat;height:600px;width:25px;}
-.vertical-channel-scroller .channel-scroller-track-handle{background:url('http://cdn.directv.com/images/compare/browse_channels_scrollbar_handle.png') no-repeat;width:33px;height:30px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scrollbar_handle.png',sizingMethod = 'crop');margin-top:7px;}
+.vertical-channel-scroller .channel-scroller-track{top:0;left:190px;background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scrollbar_track.png') center 15px no-repeat;height:600px;width:25px;}
+.vertical-channel-scroller .channel-scroller-track-handle{background:url('https://halohash.github.io/directv/dtvassets/compare/browse_channels_scrollbar_handle.png') no-repeat;width:33px;height:30px;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/compare/browse_channels_scrollbar_handle.png',sizingMethod = 'crop');margin-top:7px;}
 .overlay_directv-alert{background-color:#000;opacity:.6;}
 .dialog{overflow:hidden;padding:0;background-color:transparent;border:none;}
-.lb-top{height:22px;margin-left:25px;background:url(http://cdn.directv.com/images/global/lightbox/lightbox_corners_24bit.png) right top no-repeat;_background-image:url(http://cdn.directv.com/images/global/lightbox/lightbox_corners_ie6.png);}
-.lb-top .lb-left{position:relative;left:-25px;height:22px;width:25px;background:url(http://cdn.directv.com/images/global/lightbox/lightbox_corners_24bit.png) left top no-repeat;_background-image:url(http://cdn.directv.com/images/global/lightbox/lightbox_corners_ie6.png);}
+.lb-top{height:22px;margin-left:25px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_corners_24bit.png) right top no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_corners_ie6.png);}
+.lb-top .lb-left{position:relative;left:-25px;height:22px;width:25px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_corners_24bit.png) left top no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_corners_ie6.png);}
 .lb-top .lb-mid{display:none;}
-.lb-bottom{height:28px;margin-left:25px;background:url(http://cdn.directv.com/images/global/lightbox/lightbox_corners_24bit.png) right bottom no-repeat;_background-image:url(http://cdn.directv.com/images/global/lightbox/lightbox_corners_ie6.png);}
-.lb-bottom .lb-left{position:relative;left:-25px;height:28px;width:25px;background:url(http://cdn.directv.com/images/global/lightbox/lightbox_corners_24bit.png) left bottom no-repeat;_background-image:url(http://cdn.directv.com/images/global/lightbox/lightbox_corners_ie6.png);}
+.lb-bottom{height:28px;margin-left:25px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_corners_24bit.png) right bottom no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_corners_ie6.png);}
+.lb-bottom .lb-left{position:relative;left:-25px;height:28px;width:25px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_corners_24bit.png) left bottom no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_corners_ie6.png);}
 .lb-bottom .lb-mid{display:none;}
-.lb-main{margin:0;padding:0 0 0 25px;background:url(http://cdn.directv.com/images/global/lightbox/lightbox_sides_24bit.png) repeat-y 0 0;_background-image:url(http://cdn.directv.com/images/global/lightbox/lightbox_sides_ie6.png);}
-.lb-main .lb-mid{margin:0;padding:0;background:url(http://cdn.directv.com/images/global/lightbox/lightbox_sides_24bit.png) repeat-y right 0;_background-image:url(http://cdn.directv.com/images/global/lightbox/lightbox_sides_ie6.png);}
+.lb-main{margin:0;padding:0 0 0 25px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_sides_24bit.png) repeat-y 0 0;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_sides_ie6.png);}
+.lb-main .lb-mid{margin:0;padding:0;background:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_sides_24bit.png) repeat-y right 0;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/lightbox_sides_ie6.png);}
 .lightbox-tup{background:#dfe6ee;margin:0 25px 0 0;.display:inline-block;_height:.01%;}
 .lightbox-tup:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
 .lb-content-tup{background-image:none;padding:0;}
 .lb-content-tup .lb-sbcontent{background-color:#f8f8f8;font-size:11px;}
-.lb-sbcontent .lb-cep-message-tup{min-height:45px;height:auto!important;height:45px;margin:15px 0 0 0;padding:0 0 0 30px;border-top:1px solid #ccc;background:url(http://cdn.directv.com/images/global/lightbox/icon_lightbulb.png) 2px 8px no-repeat;_background-image:url(http://cdn.directv.com/images/global/lightbox/icon_lightbulb_ie6.png);}
+.lb-sbcontent .lb-cep-message-tup{min-height:45px;height:auto!important;height:45px;margin:15px 0 0 0;padding:0 0 0 30px;border-top:1px solid #ccc;background:url(https://halohash.github.io/directv/dtvassets/lightbox/icon_lightbulb.png) 2px 8px no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/icon_lightbulb_ie6.png);}
 .lb-sbcontent .lb-cep-message{margin:10px 0 0 0;padding:0;font-family:Arial,sans-serif;font-size:12px;line-height:16px;color:#666;}
 .lb-sbcontent .intro .lb-cep-message{margin:0;}
 .lb-caption{margin:0;padding:5px 10px;background:#f8f8f8;color:#333;font-size:12px;line-height:17px;border:1px #ccc solid;border-top:none;}
@@ -628,36 +628,36 @@ h4.lb-header{background:none;color:#333;font-size:18px;height:18px;line-height:1
 .lb-btn-bar .lb-btn-wrap a.btn-sm-std,.lb-btn-bar .lb-btn-wrap a.btn-sm-alt,.lb-btn-bar .lb-btn-wrap a.btn-sm-em,.lb-btn-bar .lb-btn-wrap a.btn-sm-stdact{margin-left:10px;}
 .lb-btn-bar .lb-btn-wrap a.btn-sm-stdact{margin-left:7px;}
 .lb-btn-bar .lb-btn-wrap a.btn-sm-act{margin-left:14px;}
-a.lb-close{display:block;width:17px;height:17px;overflow:hidden;text-indent:-9999px;text-decoration:none;float:right;background:url(http://cdn.directv.com/images/global/lightbox/lb_btn_close.png) no-repeat -13px 0;}
+a.lb-close{display:block;width:17px;height:17px;overflow:hidden;text-indent:-9999px;text-decoration:none;float:right;background:url(https://halohash.github.io/directv/dtvassets/lightbox/lb_btn_close.png) no-repeat -13px 0;}
 a.lb-close:hover{text-decoration:none;background-position:-13px -17px;}
 .required{color:#333;font-size:10px;margin:0 2px;padding:0;font-weight:normal;vertical-align:top;}
 .requiredNote{display:block;text-align:right;font-size:10px;margin-right:10px;color:#acacac;}
 .ipop-tup{opacity:1;.display:inline-block;_height:.01%;}
 .ipop-tup:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
-.ipop-top{height:16px;margin-left:19px;background:url(http://cdn.directv.com/images/global/lightbox/infopop_corners.png) right top no-repeat;_background-image:url(http://cdn.directv.com/images/global/lightbox/infopop_corners_ie6.png);}
-.ipop-top .ipop-left{position:relative;left:-19px;height:16px;width:19px;background:url(http://cdn.directv.com/images/global/lightbox/infopop_corners.png) left top no-repeat;_background-image:url(http://cdn.directv.com/images/global/lightbox/infopop_corners_ie6.png);}
+.ipop-top{height:16px;margin-left:19px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_corners.png) right top no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_corners_ie6.png);}
+.ipop-top .ipop-left{position:relative;left:-19px;height:16px;width:19px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_corners.png) left top no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_corners_ie6.png);}
 .ipop-top .ipop-mid{display:none;}
-.ipop-bottom{height:22px;margin-left:19px;background:url(http://cdn.directv.com/images/global/lightbox/infopop_corners.png) right bottom no-repeat;_background-image:url(http://cdn.directv.com/images/global/lightbox/infopop_corners_ie6.png);}
-.ipop-bottom .ipop-left{position:relative;left:-19px;height:22px;width:19px;background:url(http://cdn.directv.com/images/global/lightbox/infopop_corners.png) left bottom no-repeat;_background-image:url(http://cdn.directv.com/images/global/lightbox/infopop_corners_ie6.png);}
+.ipop-bottom{height:22px;margin-left:19px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_corners.png) right bottom no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_corners_ie6.png);}
+.ipop-bottom .ipop-left{position:relative;left:-19px;height:22px;width:19px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_corners.png) left bottom no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_corners_ie6.png);}
 .ipop-bottom .ipop-mid{display:none;}
-.ipop-main{margin-left:19px;background:url(http://cdn.directv.com/images/global/lightbox/infopop_sides.png) right repeat-y;_background-image:url(http://cdn.directv.com/images/global/lightbox/infopop_sides_ie6.png);}
-.ipop-main .ipop-mid{position:relative;left:-19px;margin:0;padding-left:19px;background:url(http://cdn.directv.com/images/global/lightbox/infopop_sides.png) left repeat-y;_background-image:url(http://cdn.directv.com/images/global/lightbox/infopop_sides_ie6.png);}
+.ipop-main{margin-left:19px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_sides.png) right repeat-y;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_sides_ie6.png);}
+.ipop-main .ipop-mid{position:relative;left:-19px;margin:0;padding-left:19px;background:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_sides.png) left repeat-y;_background-image:url(https://halohash.github.io/directv/dtvassets/lightbox/infopop_sides_ie6.png);}
 .ipop-content-tup{position:relative;background:#f0f4f7;.display:inline-block;_height:.01%;}
 .ipop-content-tup:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
 .ipop-content{margin:0;padding:0 5px;}
 .ipop-header{position:relative;margin:0 15px 0 0;padding:0 0 5px 5px;color:#333;font-weight:bold;font-size:14px;height:14px;line-height:14px;background:none;}
-.ipop-loading{background:url(http://cdn.directv.com/images/global/ajax/loading_40px.gif) no-repeat center center;}
+.ipop-loading{background:url(https://halohash.github.io/directv/dtvassets/ajax/loading_40px.gif) no-repeat center center;}
 a.btn-mid-act,a.btn-mid-actalt,a.btn-mid-actaltdk,a.btn-mid-inact,a.btn-mid-stdact,a.btn-mid-std,a.btn-mid-alt,a.btn-mid-em,a.btn-mid-deact,a.btn-sm-act,a.btn-sm-actalt,a.btn-sm-actaltdk,a.btn-sm-inact,a.btn-sm-stdact,a.btn-sm-std,a.btn-sm-alt,a.btn-sm-em,a.btn-sm-deact{display:-moz-inline-stack;display:inline-block;padding:0;padding-right:14px;font-family:arial;text-decoration:none;cursor:pointer;vertical-align:middle;}
 a.btn-mid-act span,a.btn-mid-actalt span,a.btn-mid-actaltdk span,a.btn-mid-inact span,a.btn-mid-stdact span,a.btn-mid-std span,a.btn-mid-alt span,a.btn-mid-em span,a.btn-mid-deact span,a.btn-sm-act span,a.btn-sm-actalt span,a.btn-sm-actaltdk span,a.btn-sm-inact span,a.btn-sm-stdact span,a.btn-sm-std span,a.btn-sm-alt span,a.btn-sm-em span,a.btn-sm-deact span{display:block;.display:inline-block;margin:0;padding-left:14px;font-weight:bold;color:#fff;font-size:12px;white-space:nowrap;text-align:center;}
 a.btn-mid-act:hover,a.btn-mid-actalt:hover,a.btn-mid-actaltdk:hover,a.btn-mid-inact:hover,a.btn-mid-stdact:hover,a.btn-mid-std:hover,a.btn-mid-alt:hover,a.btn-mid-em:hover,a.btn-mid-deact:hover,a.btn-sm-act:hover,a.btn-sm-actalt:hover,a.btn-sm-actaltdk:hover,a.btn-sm-inact:hover,a.btn-sm-stdact:hover,a.btn-sm-std:hover,a.btn-sm-alt:hover,a.btn-sm-em:hover,a.btn-sm-deact:hover{text-decoration:none;}
-a.btn-mid-act,a.btn-mid-actalt,a.btn-mid-actaltdk,a.btn-mid-inact{background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_lgs.png') right top no-repeat;_background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_lgs_ie6.png') right top no-repeat;}
-a.btn-mid-act span,a.btn-mid-actalt span,a.btn-mid-actaltdk span,a.btn-mid-inact span{background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_lgs.png') left top no-repeat;_background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_lgs_ie6.png') left top no-repeat;}
-a.btn-sm-act,a.btn-sm-actalt,a.btn-sm-actaltdk,a.btn-sm-inact{background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_sms.png') right top no-repeat;_background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_sms_ie6.png') right top no-repeat;}
-a.btn-sm-act span,a.btn-sm-actalt span,a.btn-sm-actaltdk span,a.btn-sm-inact span{background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_sms.png') left top no-repeat;_background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_sms_ie6.png') left top no-repeat;}
-a.btn-mid-std,a.btn-mid-alt,a.btn-mid-em,a.btn-mid-deact,a.btn-mid-stdact{background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_lg.png') right top no-repeat;_background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_lg_ie6.png') right top no-repeat;}
-a.btn-mid-std span,a.btn-mid-alt span,a.btn-mid-em span,a.btn-mid-deact span,a.btn-mid-stdact span{background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_lg.png') left top no-repeat;_background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_lg_ie6.png') left top no-repeat;}
-a.btn-sm-std,a.btn-sm-alt,a.btn-sm-em,a.btn-sm-deact,a.btn-sm-stdact{background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_sm.png') right top no-repeat;_background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_sm_ie6.png') right top no-repeat;}
-a.btn-sm-std span,a.btn-sm-alt span,a.btn-sm-em span,a.btn-sm-deact span,a.btn-sm-stdact span{background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_sm.png') left top no-repeat;_background:url('http://cdn.directv.com/images/global/buttons/global_buttons_lib_sm_ie6.png') left top no-repeat;}
+a.btn-mid-act,a.btn-mid-actalt,a.btn-mid-actaltdk,a.btn-mid-inact{background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_lgs.png') right top no-repeat;_background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_lgs_ie6.png') right top no-repeat;}
+a.btn-mid-act span,a.btn-mid-actalt span,a.btn-mid-actaltdk span,a.btn-mid-inact span{background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_lgs.png') left top no-repeat;_background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_lgs_ie6.png') left top no-repeat;}
+a.btn-sm-act,a.btn-sm-actalt,a.btn-sm-actaltdk,a.btn-sm-inact{background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_sms.png') right top no-repeat;_background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_sms_ie6.png') right top no-repeat;}
+a.btn-sm-act span,a.btn-sm-actalt span,a.btn-sm-actaltdk span,a.btn-sm-inact span{background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_sms.png') left top no-repeat;_background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_sms_ie6.png') left top no-repeat;}
+a.btn-mid-std,a.btn-mid-alt,a.btn-mid-em,a.btn-mid-deact,a.btn-mid-stdact{background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_lg.png') right top no-repeat;_background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_lg_ie6.png') right top no-repeat;}
+a.btn-mid-std span,a.btn-mid-alt span,a.btn-mid-em span,a.btn-mid-deact span,a.btn-mid-stdact span{background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_lg.png') left top no-repeat;_background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_lg_ie6.png') left top no-repeat;}
+a.btn-sm-std,a.btn-sm-alt,a.btn-sm-em,a.btn-sm-deact,a.btn-sm-stdact{background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_sm.png') right top no-repeat;_background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_sm_ie6.png') right top no-repeat;}
+a.btn-sm-std span,a.btn-sm-alt span,a.btn-sm-em span,a.btn-sm-deact span,a.btn-sm-stdact span{background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_sm.png') left top no-repeat;_background:url('https://halohash.github.io/directv/dtvassets/buttons/global_buttons_lib_sm_ie6.png') left top no-repeat;}
 a.btn-mid-act{padding-right:10px;background-position:right -24px;}
 a.btn-mid-act span{padding-left:10px;height:24px;line-height:24px;font-size:14px;background-position:0 -24px;}
 a.btn-mid-act:hover{background-position:right -48px;}
@@ -771,16 +771,16 @@ a.btn-sm-ajax{background:none;padding:0 2px;}
 a.btn-sm-ajax span{background:none;}
 a.btn-mid-ajax{background:none;padding:0 4px;}
 a.btn-mid-ajax span{background:none;}
-a.btn-spinner{background:url(http://cdn.directv.com/images/assets/ajax/loading_16px.gif) center no-repeat!important;}
+a.btn-spinner{background:url(https://halohash.github.io/directv/dtvassets/loading_16px.gif) center no-repeat!important;}
 a.btn-spinner span{background:none;visibility:hidden!important;}
-div.autocompleteSearchBox{margin:0;padding:12px 1px 0 1px;background:#fff url(http://cdn.directv.com/images/answerstation/link_arrow_down.png) no-repeat 10px top;border:1px solid #5cb6d8;border-top:none;width:165px!important;max-height:240px;overflow:hidden;}
+div.autocompleteSearchBox{margin:0;padding:12px 1px 0 1px;background:#fff url(https://halohash.github.io/directv/dtvassets/answerstation/link_arrow_down.png) no-repeat 10px top;border:1px solid #5cb6d8;border-top:none;width:165px!important;max-height:240px;overflow:hidden;}
 div.autocompleteSearchBox ul{margin:0;padding:0;list-style-type:none;padding-top:2px;padding-bottom:8px;padding-left:7px;text-indent:7px;white-space:nowrap;overflow:hidden;}
 div.autocompleteSearchBox ul li:hover,div.autocompleteSearchBox ul li.selected{background-color:#e7f4fc;color:#60bee0;padding:0;margin:0;width:165px;text-decoration:underline;height:20px;line-height:20px;}
 div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;word-spacing:2px;letter-spacing:-1px display:block;list-style-type:none;cursor:pointer;font-size:11px;font-family:arial,sans-serif;color:#999;}
-.scroller-h{position:relative;background:url(http://cdn.directv.com/images/content/scroller/cms2_scroller_h_bg.png) top no-repeat;height:120px;}
-.scroller-h .shadow-left,.scroller-h .shadow-right{position:absolute;top:1px;left:10px;display:block;background:url('http://cdn.directv.com/images/content/scroller/cms2_scroller_h_shadows.png') left repeat-y;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/content/scroller/cms2_scroller_h_shadows.png',sizingMethod='scale');height:118px;width:20px;overflow:hidden;z-index:2;}
+.scroller-h{position:relative;background:url(https://halohash.github.io/directv/dtvassets/content/scroller/cms2_scroller_h_bg.png) top no-repeat;height:120px;}
+.scroller-h .shadow-left,.scroller-h .shadow-right{position:absolute;top:1px;left:10px;display:block;background:url('https://halohash.github.io/directv/dtvassets/content/scroller/cms2_scroller_h_shadows.png') left repeat-y;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/content/scroller/cms2_scroller_h_shadows.png',sizingMethod='scale');height:118px;width:20px;overflow:hidden;z-index:2;}
 .scroller-h .shadow-right{background-position:left;left:auto;right:10px;}
-.scroller-h a.nav-previous,.scroller-h a.nav-next{position:absolute;background:url(http://cdn.directv.com/images/content/scroller/cms2_scroller_h_bg.png) no-repeat;width:20px;height:120px;display:block;cursor:pointer;z-index:3;}
+.scroller-h a.nav-previous,.scroller-h a.nav-next{position:absolute;background:url(https://halohash.github.io/directv/dtvassets/content/scroller/cms2_scroller_h_bg.png) no-repeat;width:20px;height:120px;display:block;cursor:pointer;z-index:3;}
 .scroller-h a.nav-previous{cursor:pointer;left:0;}
 .scroller-h a.nav-previous:hover{background-position:left -120px;}
 .scroller-h .disabled a.nav-previous,.scroller-h .disabled a.nav-previous:hover{background-position:left -240px;cursor:default;}
@@ -794,8 +794,8 @@ div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;
 .colspan-4 .scroller-h .content{width:864px;}
 .scroller-h .content ul{height:90px;width:1000px;position:relative;}
 .scroller-h .content ul li{float:left;padding:0;margin-left:10px;cursor:pointer;width:82px;height:90px;}
-.scroller-v{position:relative;background:url('http://cdn.directv.com/images/content/themes/default/skin_1px_stroke.png') right repeat-y;height:360px;}
-.scroller-v .shadow-left,.scroller-v .shadow-right{position:absolute;top:10px;left:1px;display:block;background:url('http://cdn.directv.com/images/content/scroller/cms2_scroller_v_shadows.png') bottom repeat-x;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/content/scroller/cms2_scroller_v_shadows.png',sizingMethod='scale');width:212px;height:20px;overflow:hidden;z-index:2;}
+.scroller-v{position:relative;background:url('https://halohash.github.io/directv/dtvassets/skin_1px_stroke.png') right repeat-y;height:360px;}
+.scroller-v .shadow-left,.scroller-v .shadow-right{position:absolute;top:10px;left:1px;display:block;background:url('https://halohash.github.io/directv/dtvassets/content/scroller/cms2_scroller_v_shadows.png') bottom repeat-x;_background-image:expression("none");_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/content/scroller/cms2_scroller_v_shadows.png',sizingMethod='scale');width:212px;height:20px;overflow:hidden;z-index:2;}
 .scroller-v .shadow-right{background-position:top;top:auto;bottom:10px;bottom:8px;}
 .colspan-2 .scroller-v .shadow-left,.colspan-2 .scroller-v .shadow-right{width:442px;}
 .colspan-3 .scroller-v .shadow-left,.colspan-3 .scroller-v .shadow-right{width:672px;}
@@ -806,7 +806,7 @@ div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;
 .colspan-2 .scroller-v a.nav-previous,.colspan-2 .scroller-v a.nav-next{width:444px;}
 .colspan-3 .scroller-v a.nav-previous,.colspan-3 .scroller-v a.nav-next{width:674px;}
 .colspan-4 .scroller-v a.nav-previous,.colspan-4 .scroller-v a.nav-next{width:904px;}
-.scroller-v a.nav-previous b,.scroller-v a.nav-next b{display:block;height:20px;background:url(http://cdn.directv.com/images/content/scroller/cms2_scroller_v_buttons.png) no-repeat;}
+.scroller-v a.nav-previous b,.scroller-v a.nav-next b{display:block;height:20px;background:url(https://halohash.github.io/directv/dtvassets/content/scroller/cms2_scroller_v_buttons.png) no-repeat;}
 .scroller-v a.nav-previous b b,.scroller-v a.nav-next b b{float:right;width:50%;padding-left:10px;}
 .scroller-v a.nav-previous b b b,.scroller-v a.nav-next b b b{float:left;_display:inline;width:20px;padding-left:0;margin-left:-10px;}
 .scroller-v a.nav-previous:hover,.scroller-v a.nav-next:hover{cursor:pointer;}
@@ -833,7 +833,7 @@ div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;
 .scroller-v .disabled a.nav-next b b,.scroller-v .disabled a.nav-next:hover b b{background-position:right -100px;}
 .scroller-v .disabled a.nav-next b b b,.scroller-v .disabled a.nav-next:hover b b b{background-position:center -100px;}
 .scroller-v .scrollarea{position:absolute;height:286px;width:15px;right:4px;top:37px;z-index:2;}
-.scroller-v .content{position:relative;background:url('http://cdn.directv.com/images/content/themes/default/skin_1px_stroke.png') left repeat-y;overflow:hidden;z-index:1;clear:both;height:290px;padding:35px 0 15px;}
+.scroller-v .content{position:relative;background:url('https://halohash.github.io/directv/dtvassets/skin_1px_stroke.png') left repeat-y;overflow:hidden;z-index:1;clear:both;height:290px;padding:35px 0 15px;}
 .scroller-v .content ul{position:relative;_height:.01%;}
 .scroller-v .content ul li{float:left;padding:0;margin:0 10px 23px 0;cursor:pointer;width:82px;height:90px;}
 .colspan-1 .scroller-v .content ul{margin-left:14px;}
@@ -845,7 +845,7 @@ div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;
 .colspan-4 .scroller-v .content ul{margin-left:18px;}
 .colspan-4 .scroller-v .content ul li{margin-right:14px;}
 .scrollbar-h{height:15px;cursor:pointer;margin:0 auto;padding-right:12px;}
-.scrollbar-h div{background:url(http://cdn.directv.com/images/content/scroller/h-scrollbar-sprite.gif) repeat-x;height:15px;position:relative;line-height:0;font-size:1px;}
+.scrollbar-h div{background:url(https://halohash.github.io/directv/dtvassets/content/scroller/h-scrollbar-sprite.gif) repeat-x;height:15px;position:relative;line-height:0;font-size:1px;}
 .scrollbar-h .start,.scrollbar-h .end{position:absolute;width:4px;background-repeat:no-repeat;}
 .scrollbar-h .start{left:-1px;}
 .scrollbar-h .end{right:-1px;}
@@ -859,7 +859,7 @@ div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;
 .scrollbar-h:hover .handle .start,.scrollbar-h.hover .handle .start{background-position:0 -55px;}
 .scrollbar-h:hover .handle .end,.scrollbar-h.hover .handle .end{background-position:0 -75px;}
 .scrollbar-v{width:15px;height:100%;cursor:pointer;position:relative;}
-.scrollbar-v div{background:url(http://cdn.directv.com/images/content/scroller/v-scrollbar-sprite.gif) repeat-y;width:15px;line-height:0;font-size:1px;}
+.scrollbar-v div{background:url(https://halohash.github.io/directv/dtvassets/content/scroller/v-scrollbar-sprite.gif) repeat-y;width:15px;line-height:0;font-size:1px;}
 .scrollbar-v .start,.scrollbar-v .end{position:absolute;height:4px;background-repeat:no-repeat;}
 .scrollbar-v .start{top:-1px;}
 .scrollbar-v .end{bottom:-1px;}
@@ -872,8 +872,8 @@ div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;
 .scrollbar-v:hover .handle,.scrollbar-v.hover .handle{background-position:-65px 0;}
 .scrollbar-v:hover .handle .end,.scrollbar-v.hover .handle .end{background-position:-55px 0;}
 .scrollbar-v:hover .handle .start,.scrollbar-v.hover .handle .start{background-position:-75px 0;}
-.content-info{background:url('http://cdn.directv.com/images/content/scroller/cms2_scroller_item.png') no-repeat;width:82px;height:90px;overflow:hidden;color:#666;cursor:pointer;}
-.content-info .unavailable{background:url('http://cdn.directv.com/images/content/scroller/cms2_scroller_item.png') left -180px no-repeat;width:82px;height:90px;cursor:default;}
+.content-info{background:url('https://halohash.github.io/directv/dtvassets/content/scroller/cms2_scroller_item.png') no-repeat;width:82px;height:90px;overflow:hidden;color:#666;cursor:pointer;}
+.content-info .unavailable{background:url('https://halohash.github.io/directv/dtvassets/content/scroller/cms2_scroller_item.png') left -180px no-repeat;width:82px;height:90px;cursor:default;}
 .content li:hover .content-info,.ctm-scroller-module .content li.hover .content-info,.content-info:hover{background-position:left -90px;}
 .details-content .content-info:hover{background-position:0 0;}
 .content-info img{margin:7px;width:68px;height:38px;}
@@ -881,7 +881,7 @@ div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;
 .content-info .channel-number{display:block;text-align:center;line-height:16px;}
 .details-content{padding:20px;.padding-right:0;_background-color:#f0f4f7;}
 .ctm-scroller-module .details-content{display:none;}
-.details-content .content-info{float:left;background-image:url('http://cdn.directv.com/images/content/scroller/cms2_scroller_item.png');cursor:default;}
+.details-content .content-info{float:left;background-image:url('https://halohash.github.io/directv/dtvassets/content/scroller/cms2_scroller_item.png');cursor:default;}
 .details-content .details-description{float:right;_zoom:1;width:230px;}
 .details-content .details-description:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
 .details-content .details-description p{margin-bottom:0;}
@@ -905,33 +905,33 @@ div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;
 #lb_zip #zipCodeLabel input.has-focus,#lb_epg_zip #zipCodeLabel input.has-focus{color:#000;}
 #lb_zip #zipCodeLabel input.has-value,#lb_epg_zip #zipCodeLabel input.has-value{color:#444;}
 #lb_zip #countyDiv select,#lb_epg_zip #countyDiv select{margin:0 0 0 10px;width:150px!important;}
-.lb-sbcontent .intro{min-height:30px;height:auto!important;height:30px;padding:0 0 0 24px;font-size:12px;line-height:16px;color:#666;background:url(http://cdn.directv.com/images/global/icons/icon_info.png) no-repeat 0 2px;}
+.lb-sbcontent .intro{min-height:30px;height:auto!important;height:30px;padding:0 0 0 24px;font-size:12px;line-height:16px;color:#666;background:url(https://halohash.github.io/directv/dtvassets/icons/icon_info.png) no-repeat 0 2px;}
 #verisign_call{width:1px;height:1px;font-size:1px;line-height:1px;margin-bottom:-1px;overflow:hidden;}
 #global_header_notification{position:absolute;z-index:999;right:5px;top:30px;.top:28px;padding:0;font-size:9px;line-height:12px;background:#fbf3c5;border:1px #fb8402 solid;}
-#global_header_notification a.close{position:relative;display:block;width:10px;height:9px;margin:3px 2px 0 0;padding:0;font-size:0;text-indent:-9999px;text-align:left;float:right;background:url(http://cdn.directv.com/images/global/saved_shoppingcart_sprites.png) no-repeat right top;overflow:hidden;z-index:1001;}
-#global_header_notification div{position:relative;top:-4px;padding:8px 17px 1px 7px;margin:0;background:url(http://cdn.directv.com/images/global/saved_shoppingcart_sprites.png) no-repeat right -16px;z-index:1000;}
+#global_header_notification a.close{position:relative;display:block;width:10px;height:9px;margin:3px 2px 0 0;padding:0;font-size:0;text-indent:-9999px;text-align:left;float:right;background:url(https://halohash.github.io/directv/dtvassets/saved_shoppingcart_sprites.png) no-repeat right top;overflow:hidden;z-index:1001;}
+#global_header_notification div{position:relative;top:-4px;padding:8px 17px 1px 7px;margin:0;background:url(https://halohash.github.io/directv/dtvassets/saved_shoppingcart_sprites.png) no-repeat right -16px;z-index:1000;}
 #contingency_warn{position:relative;width:940px;font-size:12px;color:#333;background-color:#d8e4eb;padding:16px 18px;border:1px solid #dcddde;margin:0 auto 17px;}
-#contingency_warn a{font-weight:bold;background:url(http://cdn.directv.com/images/content/themes/default/link_arrow.png) no-repeat right;padding-right:8px;}
-#contingency_warn .btn-close-warning{position:absolute;height:13px;width:13px;top:2px;right:4px;background:url(http://cdn.directv.com/images/content/ordermodule/omod_login_close_btn.png) no-repeat;cursor:pointer;_cursor:hand;}
+#contingency_warn a{font-weight:bold;background:url(https://halohash.github.io/directv/dtvassets/link_arrow.png) no-repeat right;padding-right:8px;}
+#contingency_warn .btn-close-warning{position:absolute;height:13px;width:13px;top:2px;right:4px;background:url(https://halohash.github.io/directv/dtvassets/content/ordermodule/omod_login_close_btn.png) no-repeat;cursor:pointer;_cursor:hand;}
 #contingency_warn .btn-close-warning:hover{background-position:-15px 0;}
 .noflash{width:214px;background-color:#002d48;font-size:12px;text-align:center;color:#fff;border:1px solid #002c45;margin:10px auto;padding:10px;overflow:hidden;}
-.noflash p{position:relative;background:url('http://cdn.directv.com/images/global/icons/icon_flash_cs4.png') no-repeat 50% 0;padding-top:40px;margin:0 0 4px;z-index:2;}
+.noflash p{position:relative;background:url('https://halohash.github.io/directv/dtvassets/icons/icon_flash_cs4.png') no-repeat 50% 0;padding-top:40px;margin:0 0 4px;z-index:2;}
 .noflash a{position:relative;color:#09c;font-weight:bold;z-index:2;}
 #dtv_topnav_customer_nav li,#dtv_topnav_customer_nav a,#dtv_topnav_customer_nav span,#dtv_topnav_sections_nav li,#dtv_topnav_sections_nav a,#dtv_topnav_sections_nav span,#leftnav li,#leftnav a,#leftnav span,#dtv_leftnav_nav li,#dtv_leftnav_nav a,#dtv_leftnav_nav span,.leftnav-title span,.price{font-family:"Trebuchet MS",arial,verdana,sans-serif;}
 .packages-info{float:left;width:430px!important;margin-bottom:15px;}
-.packages-info ul li,.services-info ul li{background:transparent url(http://cdn.directv.com/images/content/themes/default/list_bullet.png) no-repeat scroll 2px 5px;float:none!important;padding-left:16px;}
+.packages-info ul li,.services-info ul li{background:transparent url(https://halohash.github.io/directv/dtvassets/list_bullet.png) no-repeat scroll 2px 5px;float:none!important;padding-left:16px;}
 .packages-info p,.services-info p{margin-bottom:.3em;margin-top:.3em;}
 .statement_tip{background:transparent url(http://cdn.directv.com/cms2/product_catalog/browse_packages/bkrd_statement_tip.gif) no-repeat;float:right;width:187px!important;height:88px!important;padding-top:3px;margin-top:5px;}
 .statement_tip p{color:#666;text-align:center;max-width:175px;margin:.5em;}
 #social-networking_bar{clear:left;display:inline-block;.display:inline;padding-left:4px;.padding-left:7px;}
-#social-networking_bar li,#social-networking_bar a{height:20px;width:78px;background:url(http://cdn.directv.com/images/footer/button-bar_social-networking.png) no-repeat;_background-image:url(http://cdn.directv.com/images/footer/button-bar_social-networking_ie6.png);}
+#social-networking_bar li,#social-networking_bar a{height:20px;width:78px;background:url(https://halohash.github.io/directv/dtvassets/footer/button-bar_social-networking.png) no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/footer/button-bar_social-networking_ie6.png);}
 #social-networking_bar li{display:inline-block;.display:inline;.zoom:1;width:78px;margin-right:4px;.margin-right:7px;}
 #social-networking_bar a{display:block;text-indent:-9999px;}
 #social-networking_bar #footer_facebook-fan{background-position:0 -20px;}
 #social-networking_bar #footer_twitter-news{background-position:0 -40px;}
 #social-networking_bar #footer_twitter-tips{background-position:0 -60px;}
 #social-networking_bar #footer_youtube{background-position:0 -80px;}
-.bezel-top,.bezel-top b,.bezel-bottom,.bezel-bottom b{display:block;height:8px;overflow:hidden;background:#fff url(http://cdn.directv.com/images/epod/account/sprite_account-tabs_colored_v2.png) no-repeat;}
+.bezel-top,.bezel-top b,.bezel-bottom,.bezel-bottom b{display:block;height:8px;overflow:hidden;background:#fff url(https://halohash.github.io/directv/dtvassets/epod/account/sprite_account-tabs_colored_v2.png) no-repeat;}
 .bezel-top b,.bezel-bottom b{float:left;width:3px;}
 .bezel-top{background-position:100% 0;}
 .bezel-bottom{background-position:100% -155px;}
