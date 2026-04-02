@@ -1,16 +1,16 @@
 #dtv_body_tup{font-family:arial,verdana,sans-serif;}
 h2,h3,h4{font-family:"Trebuchet MS",arial,verdana,sans-serif;}
-#dtv_tup{background:#27647f url('./dtvassets/home_bg.png') left 92px repeat-x;}
+#dtv_tup{background:#27647f url('https://halohash.github.io/directv/dtvassetshome_bg.png') left 92px repeat-x;}
 #home_main_tup{position:relative;height:362px;}
-#home_modules_tup{position:relative;background:url('./dtvassets/home_modules_bg_v2.png') left top no-repeat;height:362px;overflow:hidden;margin:10px 0;}
-#home_filmstrip{float:left;background:url('./dtvassets/home_filmstrip_blank.png') left top no-repeat;width:668px;height:362px;}
+#home_modules_tup{position:relative;background:url('https://halohash.github.io/directv/dtvassetshome_modules_bg_v2.png') left top no-repeat;height:362px;overflow:hidden;margin:10px 0;}
+#home_filmstrip{float:left;background:url('https://halohash.github.io/directv/dtvassetshome_filmstrip_blank.png') left top no-repeat;width:668px;height:362px;}
 #home_filmstrip .noflash{margin-top:120px;}
-#home_video_tup{float:right;position:relative;background:url('./dtvassets/home_video_tup_bg_v2.png') left top no-repeat;width:282px;height:362px;}
+#home_video_tup{float:right;position:relative;background:url('https://halohash.github.io/directv/dtvassetshome_video_tup_bg_v2.png') left top no-repeat;width:282px;height:362px;}
 #home_video_tup h2{margin:3px 6px;color:#333;font-size:13px;text-transform:capitalize;}
 #home_video_player{position:absolute;top:19px;left:5px;border:1px solid #fff;width:270px;height:166px;}
 #home_video_playlist_tabs{position:absolute;top:191px;left:5px;}
 #home_video_playlist_tabs ul li{float:left;height:22px;overflow:hidden;}
-#home_video_playlist_tabs ul li a{display:block;background:url('./dtvassets/home_video_playlist_tabs.png') left top no-repeat;height:44px;text-indent:-9999px;}
+#home_video_playlist_tabs ul li a{display:block;background:url('https://halohash.github.io/directv/dtvassetshome_video_playlist_tabs.png') left top no-repeat;height:44px;text-indent:-9999px;}
 #home_video_playlist_tabs ul li.active a{margin-top:-22px;}
 #home_video_playlist_tabs ul li.tab-1 a{width:76px;background-position:0 top;}
 #home_video_playlist_tabs ul li.tab-2 a{width:116px;background-position:-76px top;}
@@ -21,7 +21,7 @@ h2,h3,h4{font-family:"Trebuchet MS",arial,verdana,sans-serif;}
 #home_video_playlist ul li{clear:both;position:relative;height:38px;margin:0 3px;padding:4px 2px;border-bottom:1px solid #888;line-height:13px;overflow:hidden;cursor:pointer;}
 #home_video_playlist ul li a.home-playlist-img-link{float:left;position:relative;display:block;width:70px;}
 #home_video_playlist ul li a.home-playlist-img-link b{display:none;}
-#home_video_playlist ul li.active{background:url('./dtvassets/home_playlist_active_bg.png') left top repeat-x;height:38px;margin:0;padding:4px 5px;border-bottom:none;}
+#home_video_playlist ul li.active{background:url('https://halohash.github.io/directv/dtvassetshome_playlist_active_bg.png') left top repeat-x;height:38px;margin:0;padding:4px 5px;border-bottom:none;}
 #home_video_playlist ul li.active a.home-playlist-img-link b{position:absolute;top:0;display:block;width:66px;height:34px;border:2px solid #fff;}
 #home_video_playlist ul li img{display:block;width:68px;height:36px;border:1px solid #a6a6a6;}
 #home_video_playlist ul li h4{float:right;margin:0;padding:0;width:150px;color:#ddd;line-height:1.1em;}
@@ -34,15 +34,15 @@ h2,h3,h4{font-family:"Trebuchet MS",arial,verdana,sans-serif;}
 #home_promos{position:absolute;top:0;width:480px;}
 #home_promos a{color:#c7e1eb;font-size:10px;}
 #home_modules_tup h2{position:relative;margin:0;font-size:13px;text-transform:capitalize;color:#a7bfcb;padding-left:1px;}
-#home_modules_tup #home_promos h2.tabbed{float:left;background:url('./dtvassets/home_promo_header_bg_v2.png') left top no-repeat;height:20px;color:#fff;}
-#home_modules_tup #home_promos h2.tabbed span{float:left;padding:4px 120px 1px 0;margin:0 0 0 6px;background:url('./dtvassets/home_promo_header_bg_v2.png') right top no-repeat;height:14px;}
+#home_modules_tup #home_promos h2.tabbed{float:left;background:url('https://halohash.github.io/directv/dtvassetshome_promo_header_bg_v2.png') left top no-repeat;height:20px;color:#fff;}
+#home_modules_tup #home_promos h2.tabbed span{float:left;padding:4px 120px 1px 0;margin:0 0 0 6px;background:url('https://halohash.github.io/directv/dtvassetshome_promo_header_bg_v2.png') right top no-repeat;height:14px;}
 #home_promos ul{clear:both;}
 #home_promos ul li{float:left;width:230px;height:160px;padding:6px 0 0 6px;overflow:hidden;color:#c7e0eb;}
 #home_promos ul li a{color:#fff;cursor:pointer;}
 #home_promos ul li h3{margin:7px 0 2px;padding:0 3px;font-size:11px;text-transform:capitalize;color:#fff;}
 #home_promos ul li h3 a{font-size:11px;}
 #home_promos ul li .home-promo-img-link{position:relative;display:block;width:230px;height:100px;}
-#home_promos ul li .home-promo-img-link b{position:absolute;display:block;background:url('./dtvassets/home_promo_img_frame_v2.png') left top no-repeat;width:230px;height:100px;z-index:2;}
+#home_promos ul li .home-promo-img-link b{position:absolute;display:block;background:url('https://halohash.github.io/directv/dtvassetshome_promo_img_frame_v2.png') left top no-repeat;width:230px;height:100px;z-index:2;}
 #home_promos ul li .home-promo-img-link:hover b{background-position:left -200px;}
 #home_promos ul li.home-promo-3 .home-promo-img-link,#home_promos ul li.home-promo-4 .home-promo-img-link{margin-top:4px;}
 #home_promos ul li.home-promo-3 .home-promo-img-link b,#home_promos ul li.home-promo-4 .home-promo-img-link b{background-position:left -100px;}
@@ -55,7 +55,7 @@ h2,h3,h4{font-family:"Trebuchet MS",arial,verdana,sans-serif;}
 #home_news h2 span{display:block;float:left;margin-right:10px;}
 #home_news h2 a{display:block;float:left;text-indent:-9999px;width:50px;}
 #home_news ul{margin:12px 6px 10px;height:.01%;}
-#home_news ul li{background:url('./dtvassets/home_news_item_bg.png') left top no-repeat;height:33px;margin:1px;.margin:1px 1px -1px;padding:10px 0 0 18px;overflow:hidden;cursor:pointer;}
+#home_news ul li{background:url('https://halohash.github.io/directv/dtvassetshome_news_item_bg.png') left top no-repeat;height:33px;margin:1px;.margin:1px 1px -1px;padding:10px 0 0 18px;overflow:hidden;cursor:pointer;}
 #home_news ul li:hover,#home_news ul li.hover{background-color:#d9f6ff;}
 #home_news ul li.first{background-position:left -2px;padding-top:8px;padding-bottom:1px;height:32px;}
 #home_news ul li a strong{display:block;padding:0;margin:0;font-size:12px;color:#333;}
@@ -71,23 +71,23 @@ h2,h3,h4{font-family:"Trebuchet MS",arial,verdana,sans-serif;}
 .home-list-module ul li span{display:block;float:left;}
 .home-list-module ul li span.counter{width:17px;}
 .home-list-module a{color:#fff;}
-.home-list-module a.guideformore{display:block;width:162px;height:20px;margin:0;padding:0;text-decoration:none;text-indent:-9999px;background:transparent url(./dtvassets/btn_guideformore_v2.png) no-repeat 0 0;}
+.home-list-module a.guideformore{display:block;width:162px;height:20px;margin:0;padding:0;text-decoration:none;text-indent:-9999px;background:transparent url(https://halohash.github.io/directv/dtvassetsbtn_guideformore_v2.png) no-repeat 0 0;}
 .home-list-module a.guideformore:hover{background-position:0 -20px;}
 .home-list-module .home-subheader{line-height:18px;font-weight:normal;font-size:11px;color:#fff;text-transform:none;white-space:nowrap;}
-.record,.no-record{float:left;display:block;background:url('./dtvassets/global/icons/icon_record.png') left center no-repeat;width:10px;height:14px;margin-right:6px;margin-top:0!important;margin-top:-1px;}
+.record,.no-record{float:left;display:block;background:url('https://halohash.github.io/directv/dtvassetsglobal/icons/icon_record.png') left center no-repeat;width:10px;height:14px;margin-right:6px;margin-top:0!important;margin-top:-1px;}
 .no-record{background:none;}
 .home-list-module ol{padding:5px 0 0 30px;margin:0;}
 #home_customer_questions div a{position:relative;margin:0;padding:0 0 0 5px;}
-#home_customer_questions div a{line-height:17px;font-size:11px;font-weight:bold;color:#fff;text-decoration:none;padding-right:8px;background:transparent url(./dtvassets/global/icons/home_link_arrow.png) no-repeat right 60%;}
+#home_customer_questions div a{line-height:17px;font-size:11px;font-weight:bold;color:#fff;text-decoration:none;padding-right:8px;background:transparent url(https://halohash.github.io/directv/dtvassetsglobal/icons/home_link_arrow.png) no-repeat right 60%;}
 #home_customer_questions div a:hover{text-decoration:underline;}
 #home_email_signup,#home_customer_questions{position:absolute;left:720px;top:182px;width:210px;padding:10px 15px;overflow:hidden;color:#fff;}
 #home_email_signup p{padding:0 10px;}
 #home_email_signup form{padding:0 10px;}
 #home_email_signup form input{font-size:11px;margin-bottom:15px;}
 #home_email_signup form input{width:180px;}
-#home_email_signup #fr a,#home_email_signup #fr a.cep-btn-action{display:block;background:url('./dtvassets/btn_signupnow_v2.png') left top no-repeat;width:94px;height:20px;padding:0;}
+#home_email_signup #fr a,#home_email_signup #fr a.cep-btn-action{display:block;background:url('https://halohash.github.io/directv/dtvassetsbtn_signupnow_v2.png') left top no-repeat;width:94px;height:20px;padding:0;}
 #home_email_signup #fr a:hover{background-position:0 -20px;}
-#home_email_signup #success a,#home_email_signup #success a.cep-btn-action,#home_email_signup #default a,#home_email_signup #default a.cep-btn-action{display:block;background:#27647f url('./dtvassets/btn_updatepreferences.png') left bottom no-repeat;width:130px;height:17px;padding:0;}
+#home_email_signup #success a,#home_email_signup #success a.cep-btn-action,#home_email_signup #default a,#home_email_signup #default a.cep-btn-action{display:block;background:#27647f url('https://halohash.github.io/directv/dtvassetsbtn_updatepreferences.png') left bottom no-repeat;width:130px;height:17px;padding:0;}
 #home_email_signup #fr a span,#home_email_signup #fr a.cep-btn-action span,#home_email_signup #success a span,#home_email_signup #success a.cep-btn-action span,#home_email_signup #default a span,#home_email_signup #default a.cep-btn-action span{display:none;}
 #home_email_signup #fr a img{display:none;}
 home_customer_questions img{margin:0;}
