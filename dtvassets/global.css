@@ -773,7 +773,7 @@ a.btn-mid-ajax{background:none;padding:0 4px;}
 a.btn-mid-ajax span{background:none;}
 a.btn-spinner{background:url(https://halohash.github.io/directv/dtvassets/loading_16px.gif) center no-repeat!important;}
 a.btn-spinner span{background:none;visibility:hidden!important;}
-div.autocompleteSearchBox{margin:0;padding:12px 1px 0 1px;background:#fff url(https://halohash.github.io/directv/dtvassets/answerstation/link_arrow_down.png) no-repeat 10px top;border:1px solid #5cb6d8;border-top:none;width:165px!important;max-height:240px;overflow:hidden;}
+div.autocompleteSearchBox{margin:0;padding:12px 1px 0 1px;background:#fff url(https://halohash.github.io/directv/dtvassets/link_arrow_down.png) no-repeat 10px top;border:1px solid #5cb6d8;border-top:none;width:165px!important;max-height:240px;overflow:hidden;}
 div.autocompleteSearchBox ul{margin:0;padding:0;list-style-type:none;padding-top:2px;padding-bottom:8px;padding-left:7px;text-indent:7px;white-space:nowrap;overflow:hidden;}
 div.autocompleteSearchBox ul li:hover,div.autocompleteSearchBox ul li.selected{background-color:#e7f4fc;color:#60bee0;padding:0;margin:0;width:165px;text-decoration:underline;height:20px;line-height:20px;}
 div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;word-spacing:2px;letter-spacing:-1px display:block;list-style-type:none;cursor:pointer;font-size:11px;font-family:arial,sans-serif;color:#999;}
@@ -924,7 +924,7 @@ div.autocompleteSearchBox ul li{margin:0;padding:0;height:20px;line-height:20px;
 .statement_tip{background:transparent url(http://cdn.directv.com/cms2/product_catalog/browse_packages/bkrd_statement_tip.gif) no-repeat;float:right;width:187px!important;height:88px!important;padding-top:3px;margin-top:5px;}
 .statement_tip p{color:#666;text-align:center;max-width:175px;margin:.5em;}
 #social-networking_bar{clear:left;display:inline-block;.display:inline;padding-left:4px;.padding-left:7px;}
-#social-networking_bar li,#social-networking_bar a{height:20px;width:78px;background:url(https://halohash.github.io/directv/dtvassets/footer/button-bar_social-networking.png) no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/footer/button-bar_social-networking_ie6.png);}
+#social-networking_bar li,#social-networking_bar a{height:20px;width:78px;background:url(https://halohash.github.io/directv/dtvassets/button-bar_social-networking.png) no-repeat;_background-image:url(https://halohash.github.io/directv/dtvassets/button-bar_social-networking_ie6.png);}
 #social-networking_bar li{display:inline-block;.display:inline;.zoom:1;width:78px;margin-right:4px;.margin-right:7px;}
 #social-networking_bar a{display:block;text-indent:-9999px;}
 #social-networking_bar #footer_facebook-fan{background-position:0 -20px;}
