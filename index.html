@@ -1,11 +1,11 @@
 ---
 layout: none
-t1: "THIS IS A TEST"
-t2: "falling in reverse bad guy"
-t3: "wi"
-d1: "FRIED CHICKEN"
-d2: "damn"
-d3: "wi"
+t1: "Public Testing"
+t2: "THIS IS A TEST"
+t3: "..."
+d1: "Welcome to DirecTV 2.0!"
+d2: "FRIED CHICKEN"
+d3: "..."
 ---
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -917,8 +917,8 @@ mboxCreate('HP_promo4_prospect');
 
 <li class="first">
 <a>
-<strong>{{ page.t1 }}</strong>
-<span>{{ page.d1 }}</span>
+<strong>{{ page.t1 | default: Filtered.}}</strong>
+<span>{{ page.d1 | default: News Num 1 unavailable}}</span>
 </a>
 </li>
 
@@ -926,8 +926,8 @@ mboxCreate('HP_promo4_prospect');
 
 <li class="">
 <a>
-<strong>{{ page.t2 }}</strong>
-<span>{{ page.d2 }}</span>
+<strong>{{ page.t2 | default: Filtered.}}</strong>
+<span>{{ page.d2  default: News Num 2 unavailable}}</span>
 </a>
 </li>
 
@@ -935,8 +935,8 @@ mboxCreate('HP_promo4_prospect');
 
 <li class="">
 <a>
-<strong>{{ page.t3 }}</strong>
-<span>{{ page.d3 }}</span>
+<strong>{{ page.t3 | default: Unavailable}}</strong>
+<span>{{ page.d3  default: News Num 3 unavailable}}</span>
 </a>
 </li>
 
